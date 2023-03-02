@@ -14082,5 +14082,19 @@
       "root": "",
       "associate": "",
       "chapte": "51"
-  }
+  },
+  {
+    "name": "certain",
+    "trans": "a:必定的 确定的",
+    "root": "",
+    "associate": "",
+    "chapte": "51"
+  },
+  {
+    "name": "think",
+    "trans": "n:想 思考 v:认为 觉得",
+    "root": "",
+    "associate": "",
+    "chapte": "51"
+  },
 ]
