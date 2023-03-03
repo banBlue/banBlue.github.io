@@ -2465,7 +2465,7 @@
   },
   {
       "name": "wonder",
-      "trans": "v:对..疑惑",
+      "trans": "v:好奇 对..疑惑",
       "root": "",
       "associate": "",
       "chapte": "11"
