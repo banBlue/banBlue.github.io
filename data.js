@@ -14096,5 +14096,33 @@
     "root": "",
     "associate": "",
     "chapte": "51"
+  },
+  {
+    "name": "establish",
+    "trans": "v:建立",
+    "root": "",
+    "associate": "",
+    "chapte": "51"
+  },
+  {
+    "name": "otherwise",
+    "trans": "adv:否则,不然",
+    "root": "",
+    "associate": "",
+    "chapte": "51"
+  },
+  {
+    "name": "one another",
+    "trans": "彼此 互相",
+    "root": "",
+    "associate": "",
+    "chapte": "51"
+  },
+  {
+    "name": "in regard to",
+    "trans": "关于",
+    "root": "",
+    "associate": "",
+    "chapte": "51"
   }
 ]
