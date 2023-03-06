@@ -14124,5 +14124,19 @@
     "root": "",
     "associate": "",
     "chapte": "51"
+  },
+  {
+    "name": "term",
+    "trans": "学期,术语",
+    "root": "",
+    "associate": "",
+    "chapte": "51"
+  },
+  {
+    "name": "deals",
+    "trans": "n:交易 v处理,经营",
+    "root": "",
+    "associate": "",
+    "chapte": "51"
   }
 ]
