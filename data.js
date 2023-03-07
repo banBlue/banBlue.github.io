@@ -10872,7 +10872,7 @@
   },
   {
       "name": "general",
-      "trans": "a:大体 笼统的 总的",
+      "trans": "a:大体 笼统的 总的 普遍的",
       "root": "",
       "associate": "",
       "chapte": "40"
