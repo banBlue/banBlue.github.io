@@ -3781,7 +3781,7 @@
   },
   {
       "name": "unlike",
-      "trans": "prep:不像",
+      "trans": "prep:不像 v:不喜欢",
       "root": "",
       "associate": "",
       "chapte": "16"
