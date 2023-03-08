@@ -14138,5 +14138,33 @@
     "root": "",
     "associate": "",
     "chapte": "51"
+  },
+  {
+    "name": "quiet",
+    "trans": "a:安静的",
+    "root": "",
+    "associate": "",
+    "chapte": "51"
+  },
+  {
+    "name": "whatever",
+    "trans": "不管什么,无论什么",
+    "root": "",
+    "associate": "",
+    "chapte": "51"
+  },
+  {
+    "name": "involved",
+    "trans": "a:复杂的,卷入的 v:牵涉",
+    "root": "",
+    "associate": "",
+    "chapte": "51"
+  },
+  {
+    "name": "thing",
+    "trans": "东西 事情",
+    "root": "",
+    "associate": "",
+    "chapte": "51"
   }
 ]
