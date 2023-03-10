@@ -11068,7 +11068,7 @@
   },
   {
       "name": "good",
-      "trans": "a:好的",
+      "trans": "a:好的 擅长的",
       "root": "",
       "associate": "better best",
       "chapte": "40"
@@ -14191,6 +14191,13 @@
   {
     "name": "thick",
     "trans": "a:厚的",
+    "root": "",
+    "associate": "",
+    "chapte": "51"
+  },
+  {
+    "name": "can be",
+    "trans": "可能",
     "root": "",
     "associate": "",
     "chapte": "51"
