@@ -14166,5 +14166,33 @@
     "root": "",
     "associate": "",
     "chapte": "51"
+  },
+  {
+    "name": "treasure",
+    "trans": "n:财富 珍品 v:珍爱",
+    "root": "",
+    "associate": "",
+    "chapte": "51"
+  },
+  {
+    "name": "inside",
+    "trans": "n:内侧 adv:在里面",
+    "root": "",
+    "associate": "",
+    "chapte": "51"
+  },
+  {
+    "name": "along",
+    "trans": "prep:沿着 顺着",
+    "root": "",
+    "associate": "",
+    "chapte": "51"
+  },
+  {
+    "name": "thick",
+    "trans": "a:厚的",
+    "root": "",
+    "associate": "",
+    "chapte": "51"
   }
 ]
