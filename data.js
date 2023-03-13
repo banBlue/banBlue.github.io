@@ -14201,5 +14201,33 @@
     "root": "",
     "associate": "",
     "chapte": "51"
+  },
+  {
+    "name": "guide",
+    "trans": "n:指南 手册 v:引导",
+    "root": "",
+    "associate": "",
+    "chapte": "51"
+  },
+  {
+    "name": "stages",
+    "trans": "n:舞台",
+    "root": "",
+    "associate": "",
+    "chapte": "51"
+  },
+  {
+    "name": "intake",
+    "trans": "n:吸入量",
+    "root": "",
+    "associate": "",
+    "chapte": "51"
+  },
+  {
+    "name": "real",
+    "trans": "a:真正的 真实的 adv:很,非常",
+    "root": "",
+    "associate": "",
+    "chapte": "51"
   }
 ]
