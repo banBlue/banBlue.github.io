@@ -4355,7 +4355,7 @@
   },
   {
       "name": "associate",
-      "trans": "v:结交 联合",
+      "trans": "v:结交 联合 联想",
       "root": "",
       "associate": "",
       "chapte": "17"
