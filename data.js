@@ -14329,13 +14329,6 @@
     "chapte": "52"
   },
   {
-    "name": "since",
-    "trans": "自从...以来 由来 因为",
-    "root": "",
-    "associate": "",
-    "chapte": "52"
-  },
-  {
     "name": "metal",
     "trans": "金属",
     "root": "",
