@@ -14271,5 +14271,82 @@
     "root": "",
     "associate": "",
     "chapte": "52"
+  },
+  {
+    "name": "belief",
+    "trans": "n:相信 信心 信念",
+    "root": "",
+    "associate": "",
+    "chapte": "52"
+  },
+  {
+    "name": "estimate",
+    "trans": "n/v:估计 判断",
+    "root": "",
+    "associate": "",
+    "chapte": "52"
+  },
+  {
+    "name": "ear",
+    "trans": "耳朵 听力",
+    "root": "",
+    "associate": "",
+    "chapte": "52"
+  },
+  {
+    "name": "nose",
+    "trans": "鼻子",
+    "root": "",
+    "associate": "",
+    "chapte": "52"
+  },
+  {
+    "name": "daily",
+    "trans": "adv:每日的 n:每日",
+    "root": "",
+    "associate": "",
+    "chapte": "52"
+  },
+  {
+    "name": "add up",
+    "trans": "合计",
+    "root": "",
+    "associate": "",
+    "chapte": "52"
+  },
+  {
+    "name": "add up",
+    "trans": "合计",
+    "root": "",
+    "associate": "",
+    "chapte": "52"
+  },
+  {
+    "name": "since",
+    "trans": "自从...以来 由来 因为",
+    "root": "",
+    "associate": "",
+    "chapte": "52"
+  },
+  {
+    "name": "since",
+    "trans": "自从...以来 由来 因为",
+    "root": "",
+    "associate": "",
+    "chapte": "52"
+  },
+  {
+    "name": "metal",
+    "trans": "金属",
+    "root": "",
+    "associate": "",
+    "chapte": "52"
+  },
+  {
+    "name": "cattle",
+    "trans": "牛",
+    "root": "",
+    "associate": "",
+    "chapte": "52"
   }
 ]
