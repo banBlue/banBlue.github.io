@@ -14229,5 +14229,40 @@
     "root": "",
     "associate": "",
     "chapte": "51"
+  },
+  {
+    "name": "fever",
+    "trans": "n/v发烧",
+    "root": "",
+    "associate": "",
+    "chapte": "52"
+  },
+  {
+    "name": "more than",
+    "trans": "超过",
+    "root": "",
+    "associate": "",
+    "chapte": "52"
+  },
+  {
+    "name": "with",
+    "trans": "和...一起,具有,用",
+    "root": "",
+    "associate": "",
+    "chapte": "52"
+  },
+  {
+    "name": "far",
+    "trans": "adv:远 adj:遥远的",
+    "root": "",
+    "associate": "",
+    "chapte": "52"
+  },
+  {
+    "name": "guest",
+    "trans": "客人",
+    "root": "",
+    "associate": "",
+    "chapte": "52"
   }
 ]
