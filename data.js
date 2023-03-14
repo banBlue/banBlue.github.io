@@ -3087,7 +3087,7 @@
       "chapte": "14"
   },
   {
-      "name": "plant",
+      "name": "planet",
       "trans": "行星",
       "root": "",
       "associate": "飞的星星",
@@ -14264,5 +14264,12 @@
     "root": "",
     "associate": "",
     "chapte": "52"
-  }
+  },
+  {
+    "name": "plant",
+    "trans": "n:植物 v:种植",
+    "root": "",
+    "associate": "",
+    "chapte": "52"
+},
 ]
