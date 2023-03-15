@@ -8401,7 +8401,7 @@
   },
   {
       "name": "contribute",
-      "trans": "v:贡献",
+      "trans": "v:贡献 促成 捐赠",
       "root": "",
       "associate": "",
       "chapte": "31"
