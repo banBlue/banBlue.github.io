@@ -14474,5 +14474,12 @@
     "root": "",
     "associate": "",
     "chapte": "53"
+  },
+  {
+    "name": "whether",
+    "trans": "是否",
+    "root": "",
+    "associate": "",
+    "chapte": "53"
   }
 ]
