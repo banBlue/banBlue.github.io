@@ -14418,5 +14418,47 @@
     "root": "",
     "associate": "",
     "chapte": "53"
+  },
+  {
+    "name": "losing",
+    "trans": "n:失败 损失 adj:输的 v:失去",
+    "root": "",
+    "associate": "lose的过去式",
+    "chapte": "53"
+  },
+  {
+    "name": "pretty",
+    "trans": "漂亮 adv:很 非常",
+    "root": "",
+    "associate": "",
+    "chapte": "53"
+  },
+  {
+    "name": "slips",
+    "trans": "滑动",
+    "root": "",
+    "associate": "",
+    "chapte": "53"
+  },
+  {
+    "name": "narrow",
+    "trans": "a:狭窄的 n:海峡",
+    "root": "",
+    "associate": "",
+    "chapte": "53"
+  },
+  {
+    "name": "figure",
+    "trans": "n:数字 v:理解 想象",
+    "root": "",
+    "associate": "",
+    "chapte": "53"
+  },
+  {
+    "name": "wrong",
+    "trans": "adj:错误的 有问题的 adv:错误地",
+    "root": "",
+    "associate": "",
+    "chapte": "53"
   }
 ]
