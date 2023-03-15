@@ -5132,7 +5132,7 @@
   },
   {
       "name": "considerate",
-      "trans": "a;体贴的",
+      "trans": "a:考虑周到的 体贴的",
       "root": "",
       "associate": "",
       "chapte": "20"
@@ -14341,5 +14341,82 @@
     "root": "",
     "associate": "",
     "chapte": "52"
+  },
+  {
+    "name": "all the time",
+    "trans": "一直",
+    "root": "",
+    "associate": "",
+    "chapte": "53"
+  },
+  {
+    "name": "from",
+    "trans": "来自 从...起 从...开始 防",
+    "root": "",
+    "associate": "",
+    "chapte": "53"
+  },
+  {
+    "name": "consequence",
+    "trans": "结果 后果",
+    "root": "",
+    "associate": "",
+    "chapte": "53"
+  },
+  {
+    "name": "pollution",
+    "trans": "污染",
+    "root": "",
+    "associate": "",
+    "chapte": "53"
+  },
+  {
+    "name": "innovation",
+    "trans": "创新 新事物",
+    "root": "",
+    "associate": "",
+    "chapte": "53"
+  },
+  {
+    "name": "reputaion",
+    "trans": "名誉 名声",
+    "root": "",
+    "associate": "",
+    "chapte": "53"
+  },
+  {
+    "name": "restricted",
+    "trans": "限制",
+    "root": "",
+    "associate": "",
+    "chapte": "53"
+  },
+  {
+    "name": "has been",
+    "trans": "已经",
+    "root": "",
+    "associate": "",
+    "chapte": "53"
+  },
+  {
+    "name": "did not",
+    "trans": "没有",
+    "root": "",
+    "associate": "",
+    "chapte": "53"
+  },
+  {
+    "name": "hold up",
+    "trans": "举起",
+    "root": "",
+    "associate": "",
+    "chapte": "53"
+  },
+  {
+    "name": "continually",
+    "trans": "adv不停地",
+    "root": "",
+    "associate": "",
+    "chapte": "53"
   }
 ]
