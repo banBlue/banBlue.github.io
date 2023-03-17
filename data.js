@@ -967,13 +967,6 @@
   },
   {
       "chapte": "6",
-      "name": "scare",
-      "trans": "v;使害怕",
-      "root": "",
-      "associate": "死心"
-  },
-  {
-      "chapte": "6",
       "name": "charity",
       "trans": "慈善",
       "root": "",
@@ -9677,7 +9670,7 @@
       "name": "scare",
       "trans": "v:惊吓 使害怕",
       "root": "",
-      "associate": "",
+      "associate": "死心",
       "chapte": "36"
   },
   {
