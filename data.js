@@ -14481,5 +14481,33 @@
     "root": "",
     "associate": "",
     "chapte": "53"
+  },
+  {
+    "name": "gratitude",
+    "trans": "n:感谢 感激之情",
+    "root": "",
+    "associate": "",
+    "chapte": "54"
+  },
+  {
+    "name": "come out",
+    "trans": "出现 出版 结果是",
+    "root": "",
+    "associate": "",
+    "chapte": "54"
+  },
+  {
+    "name": "threats",
+    "trans": "n:威胁 风险 v:威胁",
+    "root": "",
+    "associate": "",
+    "chapte": "54"
+  },
+  {
+    "name": "kinder",
+    "trans": "a:更友好的",
+    "root": "",
+    "associate": "",
+    "chapte": "54"
   }
 ]
