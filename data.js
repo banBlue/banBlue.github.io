@@ -14509,5 +14509,12 @@
     "root": "",
     "associate": "",
     "chapte": "54"
+  },
+  {
+    "name": "resolve",
+    "trans": "v:解决 决定 n:决心",
+    "root": "",
+    "associate": "",
+    "chapte": "54"
   }
 ]
