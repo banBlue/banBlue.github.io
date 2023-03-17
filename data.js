@@ -435,13 +435,6 @@
   },
   {
       "chapte": "4",
-      "name": "case",
-      "trans": "n:情况,箱",
-      "root": "",
-      "associate": ""
-  },
-  {
-      "chapte": "4",
       "name": "chance",
       "trans": "n:机会",
       "root": "",
