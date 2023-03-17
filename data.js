@@ -14516,5 +14516,12 @@
     "root": "",
     "associate": "",
     "chapte": "54"
+  },
+  {
+    "name": "terrible",
+    "trans": "a:糟糕的",
+    "root": "",
+    "associate": "",
+    "chapte": "54"
   }
 ]
