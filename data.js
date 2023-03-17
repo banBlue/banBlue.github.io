@@ -14523,5 +14523,40 @@
     "root": "",
     "associate": "",
     "chapte": "54"
+  },
+  {
+    "name": "complicated",
+    "trans": "a:复杂的",
+    "root": "",
+    "associate": "",
+    "chapte": "54"
+  },
+  {
+    "name": "modifying",
+    "trans": "修改",
+    "root": "",
+    "associate": "",
+    "chapte": "54"
+  },
+  {
+    "name": "treat",
+    "trans": "治疗 对待 n:食物",
+    "root": "",
+    "associate": "",
+    "chapte": "54"
+  },
+  {
+    "name": "arithmetic",
+    "trans": "算术 a:算术的",
+    "root": "",
+    "associate": "",
+    "chapte": "54"
+  },
+  {
+    "name": "stage",
+    "trans": "阶段 时期 舞台",
+    "root": "",
+    "associate": "",
+    "chapte": "54"
   }
 ]
