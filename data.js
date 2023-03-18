@@ -14637,13 +14637,6 @@
     "chapte": "55"
   },
   {
-    "name": "corner",
-    "trans": "多年来",
-    "root": "",
-    "associate": "",
-    "chapte": "55"
-  },
-  {
     "name": "feet",
     "trans": "脚",
     "root": "",
@@ -14709,6 +14702,27 @@
   {
     "name": "plus",
     "trans": "prep:加 外加",
+    "root": "",
+    "associate": "",
+    "chapte": "55"
+  },
+  {
+    "name": "rarer",
+    "trans": "a:更稀罕的",
+    "root": "",
+    "associate": "",
+    "chapte": "55"
+  },
+  {
+    "name": "quickly",
+    "trans": "快速地 很快",
+    "root": "",
+    "associate": "",
+    "chapte": "55"
+  },
+  {
+    "name": "dying",
+    "trans": "a:垂死的 v:死亡 消失",
     "root": "",
     "associate": "",
     "chapte": "55"
