@@ -14726,5 +14726,19 @@
     "root": "",
     "associate": "",
     "chapte": "55"
+  },
+  {
+    "name": "struggling",
+    "trans": "a:艰难奋斗的 v:奋斗",
+    "root": "",
+    "associate": "",
+    "chapte": "55"
+  },
+  {
+    "name": "at the same time",
+    "trans": "同时",
+    "root": "",
+    "associate": "",
+    "chapte": "55"
   }
 ]
