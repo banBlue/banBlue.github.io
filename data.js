@@ -93,7 +93,7 @@
   {
       "chapte": "3",
       "name": "board",
-      "trans": "n:木板",
+      "trans": "n:木板 v:登上",
       "root": "",
       "associate": ""
   },
@@ -2703,7 +2703,7 @@
   },
   {
       "name": "suspect",
-      "trans": "犯罪嫌疑人",
+      "trans": "犯罪嫌疑人 v:猜想",
       "root": "",
       "associate": "",
       "chapte": "12"
@@ -14477,7 +14477,7 @@
   },
   {
     "name": "whether",
-    "trans": "是否",
+    "trans": "是否 不管 无论",
     "root": "",
     "associate": "",
     "chapte": "53"
@@ -14558,5 +14558,75 @@
     "root": "",
     "associate": "",
     "chapte": "54"
-  }
+  },
+  {
+    "name": "goes",
+    "trans": "v:前进 行走",
+    "root": "",
+    "associate": "",
+    "chapte": "55"
+  },
+  {
+    "name": "most of time",
+    "trans": "大多时候",
+    "root": "",
+    "associate": "",
+    "chapte": "55"
+  },
+  {
+    "name": "way",
+    "trans": "n:方式 道路",
+    "root": "",
+    "associate": "",
+    "chapte": "55"
+  },
+  {
+    "name": "despite",
+    "trans": "尽管",
+    "root": "",
+    "associate": "",
+    "chapte": "55"
+  },
+  {
+    "name": "such",
+    "trans": "如此的 这么 如此 这种的 那样的",
+    "root": "",
+    "associate": "such as比如",
+    "chapte": "55"
+  },
+  {
+    "name": "several",
+    "trans": "几个",
+    "root": "",
+    "associate": "several time:几次",
+    "chapte": "55"
+  },
+  {
+    "name": "in the early",
+    "trans": "在...早期",
+    "root": "",
+    "associate": "",
+    "chapte": "55"
+  },
+  {
+    "name": "later",
+    "trans": "adv:后来 adj:较晚的 以后的 末期的",
+    "root": "",
+    "associate": "",
+    "chapte": "55"
+  },
+  {
+    "name": "generate",
+    "trans": "v:产生 引起",
+    "root": "",
+    "associate": "",
+    "chapte": "55"
+  },
+  {
+    "name": "looking into",
+    "trans": "调查",
+    "root": "",
+    "associate": "",
+    "chapte": "55"
+  },
 ]
