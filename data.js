@@ -1521,7 +1521,7 @@
   {
       "chapte": "8",
       "name": "actually",
-      "trans": "adv:实际上 事实上",
+      "trans": "adv:实际上 事实上 其实",
       "root": "",
       "associate": ""
   },
@@ -14628,5 +14628,68 @@
     "root": "",
     "associate": "",
     "chapte": "55"
-  }
+  },
+  {
+    "name": "For many years",
+    "trans": "多年来",
+    "root": "",
+    "associate": "",
+    "chapte": "55"
+  },
+  {
+    "name": "corner",
+    "trans": "多年来",
+    "root": "",
+    "associate": "",
+    "chapte": "55"
+  },
+  {
+    "name": "feet",
+    "trans": "脚",
+    "root": "",
+    "associate": "",
+    "chapte": "55"
+  },
+  {
+    "name": "celebrity",
+    "trans": "n:名人 明星",
+    "root": "",
+    "associate": "",
+    "chapte": "55"
+  },
+  {
+    "name": "over the years",
+    "trans": "多年以来",
+    "root": "",
+    "associate": "",
+    "chapte": "55"
+  },
+  {
+    "name": "By and by",
+    "trans": "不久",
+    "root": "",
+    "associate": "",
+    "chapte": "55"
+  },
+  {
+    "name": "in person",
+    "trans": "亲自",
+    "root": "",
+    "associate": "",
+    "chapte": "55"
+  },
+  {
+    "name": "stranger",
+    "trans": "陌生人",
+    "root": "",
+    "associate": "",
+    "chapte": "55"
+  },
+  {
+    "name": "knock",
+    "trans": "v:敲 击",
+    "root": "",
+    "associate": "",
+    "chapte": "55"
+  },
 ]
