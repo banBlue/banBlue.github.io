@@ -9465,7 +9465,7 @@
   },
   {
       "name": "individual",
-      "trans": "a:个人的 n:个人 个体 ",
+      "trans": "a:单独的 个人的 n:个人 个体 ",
       "root": "",
       "associate": "不能分开的",
       "chapte": "35"
@@ -14688,6 +14688,27 @@
   {
     "name": "knock",
     "trans": "v:敲 击",
+    "root": "",
+    "associate": "",
+    "chapte": "55"
+  },
+  {
+    "name": "dirty",
+    "trans": "肮脏",
+    "root": "",
+    "associate": "",
+    "chapte": "55"
+  },
+  {
+    "name": "specialize",
+    "trans": "v:专门研究，专营",
+    "root": "",
+    "associate": "",
+    "chapte": "55"
+  },
+  {
+    "name": "plus",
+    "trans": "prep:加 外加",
     "root": "",
     "associate": "",
     "chapte": "55"
