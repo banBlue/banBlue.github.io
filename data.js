@@ -2332,7 +2332,7 @@
   },
   {
       "name": "old",
-      "trans": "老的 旧的",
+      "trans": "老的 旧的 ...岁的",
       "root": "",
       "associate": "",
       "chapte": "11"
@@ -14828,6 +14828,55 @@
   {
     "name": "twist",
     "trans": "v/n:弯曲 扭弯",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "have off",
+    "trans": "有了",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "hang out",
+    "trans": "挂出",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "concerned",
+    "trans": "adj:关心的 相关的 v:忧虑",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "leisure",
+    "trans": "闲暇 业余时间",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "confess",
+    "trans": "v:承认",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "quite",
+    "trans": "相当 很 非常",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "off",
+    "trans": "离开 取消 从...移开 不上课",
     "root": "",
     "associate": "",
     "chapte": "56"
