@@ -14740,5 +14740,96 @@
     "root": "",
     "associate": "",
     "chapte": "55"
+  },
+  {
+    "name": "entertainment",
+    "trans": "娱乐",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "fictions",
+    "trans": "n;小说 v:使小说化",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "sent off",
+    "trans": "寄出",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "homesick",
+    "trans": "a:想家的",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "sick",
+    "trans": "a:生病的",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "obese",
+    "trans": "a:肥胖的",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "obeying",
+    "trans": "v:遵守",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "nowhere",
+    "trans": "无处,哪里都不  n:不存在的地方",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "challenge",
+    "trans": "n:挑战 难题",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "led",
+    "trans": "v:领导  通向 导致 指引",
+    "root": "",
+    "associate": "lead的过去式",
+    "chapte": "56"
+  },
+  {
+    "name": "make up",
+    "trans": "组成",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "within",
+    "trans": "在(某段时间)内 在...限度内  adv:在里面  在内部",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "twist",
+    "trans": "v/n:弯曲 扭弯",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
   }
 ]
