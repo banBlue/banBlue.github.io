@@ -3613,7 +3613,7 @@
   },
   {
       "name": "though",
-      "trans": "虽然 尽管",
+      "trans": "虽然 尽管 不过 可是 然而",
       "root": "",
       "associate": "",
       "chapte": "15"
@@ -14877,6 +14877,55 @@
   {
     "name": "off",
     "trans": "离开 取消 从...移开 不上课",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "country",
+    "trans": "国家 乡下",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "back up",
+    "trans": "备份 后退 援助",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "indoor",
+    "trans": "室内",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "a kind of",
+    "trans": "一种 一类",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "beach",
+    "trans": "海滩",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "last",
+    "trans": "最后的 上一个的 最近的 上次",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "used to",
+    "trans": "惯于 过去经常",
     "root": "",
     "associate": "",
     "chapte": "56"
