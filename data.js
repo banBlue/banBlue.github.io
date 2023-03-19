@@ -14950,5 +14950,75 @@
     "root": "",
     "associate": "",
     "chapte": "56"
+  },
+  {
+    "name": "claiming",
+    "trans": "v:声称",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "surfing",
+    "trans": "网络浏览 冲浪",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "force",
+    "trans": "v:强迫 用力推 n:武力 有影响力的人",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "nutrition",
+    "trans": "营养",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "enthusiastic",
+    "trans": "热情",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "trun out",
+    "trans": "发生 结果是",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "discussed",
+    "trans": "讨论",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "cussed",
+    "trans": "a:固执的",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "ate",
+    "trans": "吃",
+    "root": "",
+    "associate": "eat",
+    "chapte": "56"
+  },
+  {
+    "name": "cause",
+    "trans": "n:原因 起因 v:造成 引起",
+    "root": "",
+    "associate": "eat",
+    "chapte": "56"
   }
 ]
