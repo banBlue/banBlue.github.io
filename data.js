@@ -14929,5 +14929,26 @@
     "root": "",
     "associate": "",
     "chapte": "56"
+  },
+  {
+    "name": "dominate",
+    "trans": "统治 支配",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "overtime",
+    "trans": "加班 超时",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "reasonable",
+    "trans": "a:有道理的 合理的",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
   }
 ]
