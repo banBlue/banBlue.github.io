@@ -15168,4 +15168,11 @@
     "associate": "",
     "chapte": "57"
   }
+  ,{
+    "name": "soon",
+    "trans": "很快 不久",
+    "root": "",
+    "associate": "",
+    "chapte": "57"
+  }
 ]
