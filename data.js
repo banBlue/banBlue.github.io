@@ -15175,4 +15175,32 @@
     "associate": "",
     "chapte": "57"
   }
+  ,{
+    "name": "ask",
+    "trans": "询问 要求",
+    "root": "",
+    "associate": "",
+    "chapte": "57"
+  }
+  ,{
+    "name": "integrate",
+    "trans": "v:合并 a:整合的",
+    "root": "",
+    "associate": "",
+    "chapte": "57"
+  }
+  ,{
+    "name": "demanding",
+    "trans": "要求高的",
+    "root": "",
+    "associate": "",
+    "chapte": "57"
+  }
+  ,{
+    "name": "costly",
+    "trans": "昂贵的",
+    "root": "",
+    "associate": "",
+    "chapte": "57"
+  }
 ]
