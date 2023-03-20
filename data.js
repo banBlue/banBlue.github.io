@@ -4928,13 +4928,6 @@
       "chapte": "19"
   },
   {
-      "name": "stage",
-      "trans": "舞台",
-      "root": "",
-      "associate": "",
-      "chapte": "19"
-  },
-  {
       "name": "stadium",
       "trans": "体育场",
       "root": "",
@@ -14191,13 +14184,6 @@
   {
     "name": "guide",
     "trans": "n:指南 手册 v:引导",
-    "root": "",
-    "associate": "",
-    "chapte": "51"
-  },
-  {
-    "name": "stages",
-    "trans": "n:舞台",
     "root": "",
     "associate": "",
     "chapte": "51"
