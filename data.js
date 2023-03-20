@@ -15004,7 +15004,49 @@
     "name": "cause",
     "trans": "n:原因 起因 v:造成 引起",
     "root": "",
-    "associate": "eat",
+    "associate": "",
     "chapte": "56"
+  }
+  ,{
+    "name": "sampled",
+    "trans": "品尝",
+    "root": "",
+    "associate": "",
+    "chapte": "57"
+  }
+  ,{
+    "name": "impatient",
+    "trans": "不耐心的",
+    "root": "",
+    "associate": "",
+    "chapte": "57"
+  }
+  ,{
+    "name": "exhausted",
+    "trans": "疲惫的",
+    "root": "",
+    "associate": "",
+    "chapte": "57"
+  }
+  ,{
+    "name": "thoughful",
+    "trans": "深思的",
+    "root": "",
+    "associate": "",
+    "chapte": "57"
+  }
+  ,{
+    "name": "smashed",
+    "trans": "v:打碎  a:破碎的",
+    "root": "",
+    "associate": "",
+    "chapte": "57"
+  }
+  ,{
+    "name": "juice",
+    "trans": "n:果汁 v:榨",
+    "root": "",
+    "associate": "",
+    "chapte": "57"
   }
 ]
