@@ -15119,4 +15119,53 @@
     "associate": "",
     "chapte": "57"
   }
+  ,{
+    "name": "suddenly",
+    "trans": "突然地",
+    "root": "",
+    "associate": "",
+    "chapte": "57"
+  }
+  ,{
+    "name": "get on",
+    "trans": "上车 上马",
+    "root": "",
+    "associate": "",
+    "chapte": "57"
+  }
+  ,{
+    "name": "leave",
+    "trans": "离开 让...处于",
+    "root": "",
+    "associate": "",
+    "chapte": "57"
+  }
+  ,{
+    "name": "impolite",
+    "trans": "a:不礼貌的",
+    "root": "",
+    "associate": "polite礼貌的",
+    "chapte": "57"
+  }
+  ,{
+    "name": "guess",
+    "trans": "猜测",
+    "root": "",
+    "associate": "",
+    "chapte": "57"
+  }
+  ,{
+    "name": "relief",
+    "trans": "轻松",
+    "root": "",
+    "associate": "",
+    "chapte": "57"
+  }
+  ,{
+    "name": "sooner",
+    "trans": "adv:更快地",
+    "root": "",
+    "associate": "",
+    "chapte": "57"
+  }
 ]
