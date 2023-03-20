@@ -15049,4 +15049,74 @@
     "associate": "",
     "chapte": "57"
   }
+  ,{
+    "name": "exhaust",
+    "trans": "v:精疲力尽 排放",
+    "root": "",
+    "associate": "",
+    "chapte": "57"
+  },
+  ,{
+    "name": "idiot",
+    "trans": "白痴",
+    "root": "",
+    "associate": "",
+    "chapte": "57"
+  }
+  ,{
+    "name": "unkind",
+    "trans": "a:不友善的",
+    "root": "",
+    "associate": "",
+    "chapte": "57"
+  } 
+  ,{
+    "name": "kept",
+    "trans": "a:被包养的 v:保持",
+    "root": "",
+    "associate": "keep的过去式 过去分词",
+    "chapte": "57"
+  }
+  ,{
+    "name": "boast",
+    "trans": "n/v:吹嘘",
+    "root": "",
+    "associate": "",
+    "chapte": "57"
+  }
+  ,{
+    "name": "unspoken",
+    "trans": "a:无言的 未说出口的",
+    "root": "",
+    "associate": "",
+    "chapte": "57"
+  }
+  ,{
+    "name": "seriously",
+    "trans": "a:严重地",
+    "root": "",
+    "associate": "",
+    "chapte": "57"
+  }
+  ,{
+    "name": "away",
+    "trans": "adv:距离……有(多远/多久) 离开 一直 adj:客场的",
+    "root": "",
+    "associate": "",
+    "chapte": "57"
+  }
+  ,{
+    "name": "convey",
+    "trans": "传送 运输 表达",
+    "root": "",
+    "associate": "",
+    "chapte": "57"
+  }
+  ,{
+    "name": "upright",
+    "trans": "a:挺直的 笔直的 正直的",
+    "root": "",
+    "associate": "",
+    "chapte": "57"
+  }
 ]
