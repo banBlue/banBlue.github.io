@@ -15055,7 +15055,7 @@
     "root": "",
     "associate": "",
     "chapte": "57"
-  },
+  }
   ,{
     "name": "idiot",
     "trans": "白痴",
