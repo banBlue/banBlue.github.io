@@ -93,7 +93,7 @@
   {
       "chapte": "3",
       "name": "board",
-      "trans": "n:木板",
+      "trans": "n:木板 v:登上",
       "root": "",
       "associate": ""
   },
@@ -1507,7 +1507,7 @@
   {
       "chapte": "8",
       "name": "actually",
-      "trans": "adv:实际上 事实上",
+      "trans": "adv:实际上 事实上 其实",
       "root": "",
       "associate": ""
   },
@@ -2318,7 +2318,7 @@
   },
   {
       "name": "old",
-      "trans": "老的 旧的",
+      "trans": "老的 旧的 ...岁的",
       "root": "",
       "associate": "",
       "chapte": "11"
@@ -2689,7 +2689,7 @@
   },
   {
       "name": "suspect",
-      "trans": "犯罪嫌疑人",
+      "trans": "犯罪嫌疑人 v:猜想",
       "root": "",
       "associate": "",
       "chapte": "12"
@@ -3599,7 +3599,7 @@
   },
   {
       "name": "though",
-      "trans": "虽然 尽管",
+      "trans": "虽然 尽管 不过 可是 然而",
       "root": "",
       "associate": "",
       "chapte": "15"
@@ -9451,7 +9451,7 @@
   },
   {
       "name": "individual",
-      "trans": "a:个人的 n:个人 个体 ",
+      "trans": "a:单独的 个人的 n:个人 个体 ",
       "root": "",
       "associate": "不能分开的",
       "chapte": "35"
@@ -14463,7 +14463,7 @@
   },
   {
     "name": "whether",
-    "trans": "是否",
+    "trans": "是否 不管 无论",
     "root": "",
     "associate": "",
     "chapte": "53"
@@ -14544,5 +14544,467 @@
     "root": "",
     "associate": "",
     "chapte": "54"
+  },
+  {
+    "name": "goes",
+    "trans": "v:前进 行走",
+    "root": "",
+    "associate": "",
+    "chapte": "55"
+  },
+  {
+    "name": "most of time",
+    "trans": "大多时候",
+    "root": "",
+    "associate": "",
+    "chapte": "55"
+  },
+  {
+    "name": "way",
+    "trans": "n:方式 道路",
+    "root": "",
+    "associate": "",
+    "chapte": "55"
+  },
+  {
+    "name": "despite",
+    "trans": "尽管",
+    "root": "",
+    "associate": "",
+    "chapte": "55"
+  },
+  {
+    "name": "such",
+    "trans": "如此的 这么 如此 这种的 那样的",
+    "root": "",
+    "associate": "such as比如",
+    "chapte": "55"
+  },
+  {
+    "name": "several",
+    "trans": "几个",
+    "root": "",
+    "associate": "several time:几次",
+    "chapte": "55"
+  },
+  {
+    "name": "in the early",
+    "trans": "在...早期",
+    "root": "",
+    "associate": "",
+    "chapte": "55"
+  },
+  {
+    "name": "later",
+    "trans": "adv:后来 adj:较晚的 以后的 末期的",
+    "root": "",
+    "associate": "",
+    "chapte": "55"
+  },
+  {
+    "name": "generate",
+    "trans": "v:产生 引起",
+    "root": "",
+    "associate": "",
+    "chapte": "55"
+  },
+  {
+    "name": "looking into",
+    "trans": "调查",
+    "root": "",
+    "associate": "",
+    "chapte": "55"
+  },
+  {
+    "name": "For many years",
+    "trans": "多年来",
+    "root": "",
+    "associate": "",
+    "chapte": "55"
+  },
+  {
+    "name": "feet",
+    "trans": "脚",
+    "root": "",
+    "associate": "",
+    "chapte": "55"
+  },
+  {
+    "name": "celebrity",
+    "trans": "n:名人 明星",
+    "root": "",
+    "associate": "",
+    "chapte": "55"
+  },
+  {
+    "name": "over the years",
+    "trans": "多年以来",
+    "root": "",
+    "associate": "",
+    "chapte": "55"
+  },
+  {
+    "name": "By and by",
+    "trans": "不久",
+    "root": "",
+    "associate": "",
+    "chapte": "55"
+  },
+  {
+    "name": "in person",
+    "trans": "亲自",
+    "root": "",
+    "associate": "",
+    "chapte": "55"
+  },
+  {
+    "name": "stranger",
+    "trans": "陌生人",
+    "root": "",
+    "associate": "",
+    "chapte": "55"
+  },
+  {
+    "name": "knock",
+    "trans": "v:敲 击",
+    "root": "",
+    "associate": "",
+    "chapte": "55"
+  },
+  {
+    "name": "dirty",
+    "trans": "肮脏",
+    "root": "",
+    "associate": "",
+    "chapte": "55"
+  },
+  {
+    "name": "specialize",
+    "trans": "v:专门研究，专营",
+    "root": "",
+    "associate": "",
+    "chapte": "55"
+  },
+  {
+    "name": "plus",
+    "trans": "prep:加 外加",
+    "root": "",
+    "associate": "",
+    "chapte": "55"
+  },
+  {
+    "name": "rarer",
+    "trans": "a:更稀罕的",
+    "root": "",
+    "associate": "",
+    "chapte": "55"
+  },
+  {
+    "name": "quickly",
+    "trans": "快速地 很快",
+    "root": "",
+    "associate": "",
+    "chapte": "55"
+  },
+  {
+    "name": "dying",
+    "trans": "a:垂死的 v:死亡 消失",
+    "root": "",
+    "associate": "",
+    "chapte": "55"
+  },
+  {
+    "name": "struggling",
+    "trans": "a:艰难奋斗的 v:奋斗",
+    "root": "",
+    "associate": "",
+    "chapte": "55"
+  },
+  {
+    "name": "at the same time",
+    "trans": "同时",
+    "root": "",
+    "associate": "",
+    "chapte": "55"
+  },
+  {
+    "name": "entertainment",
+    "trans": "娱乐",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "fictions",
+    "trans": "n;小说 v:使小说化",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "sent off",
+    "trans": "寄出",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "homesick",
+    "trans": "a:想家的",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "sick",
+    "trans": "a:生病的",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "obese",
+    "trans": "a:肥胖的",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "obeying",
+    "trans": "v:遵守",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "nowhere",
+    "trans": "无处,哪里都不  n:不存在的地方",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "challenge",
+    "trans": "n:挑战 难题",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "led",
+    "trans": "v:领导  通向 导致 指引",
+    "root": "",
+    "associate": "lead的过去式",
+    "chapte": "56"
+  },
+  {
+    "name": "make up",
+    "trans": "组成",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "within",
+    "trans": "在(某段时间)内 在...限度内  adv:在里面  在内部",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "twist",
+    "trans": "v/n:弯曲 扭弯",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "have off",
+    "trans": "有了",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "hang out",
+    "trans": "挂出",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "concerned",
+    "trans": "adj:关心的 相关的 v:忧虑",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "leisure",
+    "trans": "闲暇 业余时间",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "confess",
+    "trans": "v:承认",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "quite",
+    "trans": "相当 很 非常",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "off",
+    "trans": "离开 取消 从...移开 不上课",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "country",
+    "trans": "国家 乡下",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "back up",
+    "trans": "备份 后退 援助",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "indoor",
+    "trans": "室内",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "a kind of",
+    "trans": "一种 一类",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "beach",
+    "trans": "海滩",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "last",
+    "trans": "最后的 上一个的 最近的 上次",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "used to",
+    "trans": "惯于 过去经常",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "dominate",
+    "trans": "统治 支配",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "overtime",
+    "trans": "加班 超时",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "reasonable",
+    "trans": "a:有道理的 合理的",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "claiming",
+    "trans": "v:声称",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "surfing",
+    "trans": "网络浏览 冲浪",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "force",
+    "trans": "v:强迫 用力推 n:武力 有影响力的人",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "nutrition",
+    "trans": "营养",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "enthusiastic",
+    "trans": "热情",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "trun out",
+    "trans": "发生 结果是",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "discussed",
+    "trans": "讨论",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "cussed",
+    "trans": "a:固执的",
+    "root": "",
+    "associate": "",
+    "chapte": "56"
+  },
+  {
+    "name": "ate",
+    "trans": "吃",
+    "root": "",
+    "associate": "eat",
+    "chapte": "56"
+  },
+  {
+    "name": "cause",
+    "trans": "n:原因 起因 v:造成 引起",
+    "root": "",
+    "associate": "eat",
+    "chapte": "56"
   }
 ]
