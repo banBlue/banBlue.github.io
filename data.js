@@ -15231,4 +15231,88 @@
     "associate": "the+形容词 表示一类人",
     "chapte": "57"
   }
+  ,{
+    "name": "great",
+    "trans": "a：伟大的",
+    "root": "",
+    "associate": "",
+    "chapte": "57"
+  }
+  ,{
+    "name": "therefore",
+    "trans": "因此",
+    "root": "",
+    "associate": "",
+    "chapte": "57"
+  }
+  ,{
+    "name": "domestic",
+    "trans": "家庭的",
+    "root": "",
+    "associate": "",
+    "chapte": "57"
+  }
+  ,{
+    "name": "cry",
+    "trans": "哭",
+    "root": "",
+    "associate": "",
+    "chapte": "57"
+  }
+  ,{
+    "name": "imitate",
+    "trans": "模仿",
+    "root": "",
+    "associate": "",
+    "chapte": "57"
+  }
+  ,{
+    "name": "heart",
+    "trans": "心 心脏",
+    "root": "",
+    "associate": "",
+    "chapte": "57"
+  }
+  ,{
+    "name": "take part in",
+    "trans": "参加",
+    "root": "",
+    "associate": "",
+    "chapte": "57"
+  }
+  ,{
+    "name": "cheap",
+    "trans": "便宜的",
+    "root": "",
+    "associate": "",
+    "chapte": "57"
+  }
+  ,{
+    "name": "excite",
+    "trans": "v:使激动",
+    "root": "",
+    "associate": "",
+    "chapte": "57"
+  }
+  ,{
+    "name": "began to",
+    "trans": "开始",
+    "root": "",
+    "associate": "",
+    "chapte": "57"
+  }
+  ,{
+    "name": "at once",
+    "trans": "立刻 马上",
+    "root": "",
+    "associate": "",
+    "chapte": "57"
+  }
+  ,{
+    "name": "previous",
+    "trans": "先前的 以前的",
+    "root": "",
+    "associate": "",
+    "chapte": "57"
+  }
 ]
