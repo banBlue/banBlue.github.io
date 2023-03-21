@@ -15217,4 +15217,18 @@
     "associate": "",
     "chapte": "57"
   }
+  ,{
+    "name": "and",
+    "trans": "和 并且 然后",
+    "root": "",
+    "associate": "",
+    "chapte": "57"
+  }
+  ,{
+    "name": "the poor",
+    "trans": "穷人",
+    "root": "",
+    "associate": "the+形容词 表示一类人",
+    "chapte": "57"
+  }
 ]
