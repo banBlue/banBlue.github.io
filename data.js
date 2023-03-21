@@ -15189,4 +15189,32 @@
     "associate": "",
     "chapte": "57"
   }
+  ,{
+    "name": "slow",
+    "trans": "低俗的 v:放慢速度",
+    "root": "",
+    "associate": "",
+    "chapte": "57"
+  }
+  ,{
+    "name": "rose",
+    "trans": "玫瑰 v:增加",
+    "root": "",
+    "associate": "",
+    "chapte": "57"
+  }
+  ,{
+    "name": "crisis",
+    "trans": "危机",
+    "root": "",
+    "associate": "",
+    "chapte": "57"
+  }
+  ,{
+    "name": "potential",
+    "trans": "a:潜在的",
+    "root": "",
+    "associate": "",
+    "chapte": "57"
+  }
 ]
