@@ -15350,4 +15350,53 @@
     "associate": "",
     "chapte": "57"
   }
+  ,{
+    "name": "art",
+    "trans": "n:艺术 a:艺术性的",
+    "root": "",
+    "associate": "",
+    "chapte": "58"
+  }
+  ,{
+    "name": "seem",
+    "trans": "似乎",
+    "root": "",
+    "associate": "",
+    "chapte": "58"
+  }
+  ,{
+    "name": "even",
+    "trans": "即使 甚至",
+    "root": "",
+    "associate": "",
+    "chapte": "58"
+  }
+  ,{
+    "name": "even",
+    "trans": "即使 甚至",
+    "root": "",
+    "associate": "",
+    "chapte": "58"
+  }
+  ,{
+    "name": "remark",
+    "trans": "n:言论 显耀 v:谈论",
+    "root": "",
+    "associate": "",
+    "chapte": "58"
+  }
+  ,{
+    "name": "remarkable",
+    "trans": "a:引人注目的 非凡的",
+    "root": "",
+    "associate": "",
+    "chapte": "58"
+  }
+  ,{
+    "name": "so much how",
+    "trans": "这么多",
+    "root": "",
+    "associate": "",
+    "chapte": "58"
+  }
 ]
