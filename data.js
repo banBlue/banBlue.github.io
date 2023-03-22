@@ -15231,4 +15231,39 @@
     "associate": "the+形容词 表示一类人",
     "chapte": "57"
   }
+  ,{
+    "name": "wireless",
+    "trans": "无线",
+    "root": "",
+    "associate": "",
+    "chapte": "57"
+  }
+  ,{
+    "name": "rapidly",
+    "trans": "快速地",
+    "root": "",
+    "associate": "",
+    "chapte": "57"
+  }
+  ,{
+    "name": "as well",
+    "trans": "也 同样",
+    "root": "",
+    "associate": "",
+    "chapte": "57"
+  }
+  ,{
+    "name": "enormous",
+    "trans": "巨大的",
+    "root": "",
+    "associate": "",
+    "chapte": "57"
+  }
+  ,{
+    "name": "before long",
+    "trans": "不久",
+    "root": "",
+    "associate": "",
+    "chapte": "57"
+  }
 ]
