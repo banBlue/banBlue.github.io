@@ -15402,6 +15402,57 @@
   ,{
     "name": "focus on",
     "trans": "集中于",
+    "name": "meant",
+    "trans": "意思是 打算",
+    "root": "",
+    "associate": "",
+    "chapte": "58"
+  }
+  ,{
+    "name": "tastes",
+    "trans": "意思是 打算",
+    "root": "",
+    "associate": "",
+    "chapte": "58"
+  }
+  ,{
+    "name": "the times",
+    "trans": "时代",
+    "root": "",
+    "associate": "",
+    "chapte": "58"
+  }
+  ,{
+    "name": "stimulate",
+    "trans": "促进 激发",
+    "root": "",
+    "associate": "",
+    "chapte": "58"
+  }
+  ,{
+    "name": "urge",
+    "trans": "v:敦促",
+    "root": "",
+    "associate": "",
+    "chapte": "58"
+  }
+  ,{
+    "name": "exceed",
+    "trans": "超过",
+    "root": "",
+    "associate": "",
+    "chapte": "58"
+  }
+  ,{
+    "name": "discipline",
+    "trans": "纪律 处分 自律",
+    "root": "",
+    "associate": "",
+    "chapte": "58"
+  }
+  ,{
+    "name": "realistic",
+    "trans": "a:务实的 现实性",
     "root": "",
     "associate": "",
     "chapte": "58"
