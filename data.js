@@ -15399,4 +15399,11 @@
     "associate": "",
     "chapte": "58"
   }
+  ,{
+    "name": "focus on",
+    "trans": "集中于",
+    "root": "",
+    "associate": "",
+    "chapte": "58"
+  }
 ]
