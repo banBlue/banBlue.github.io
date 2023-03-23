@@ -11264,7 +11264,7 @@
   },
   {
       "name": "transport",
-      "trans": "v:运输 ",
+      "trans": "v:运输 n:交通工具",
       "root": "",
       "associate": "携带转移",
       "chapte": "41"
@@ -15523,6 +15523,48 @@
   ,{
     "name": "phase",
     "trans": "阶段 时期",
+    "root": "",
+    "associate": "",
+    "chapte": "59"
+  }
+  ,{
+    "name": "encounter",
+    "trans": "遭遇",
+    "root": "",
+    "associate": "",
+    "chapte": "59"
+  }
+  ,{
+    "name": "candidate",
+    "trans": "候选人 申请者",
+    "root": "",
+    "associate": "",
+    "chapte": "59"
+  }
+  ,{
+    "name": "objective",
+    "trans": "主观的",
+    "root": "",
+    "associate": "",
+    "chapte": "59"
+  }
+  ,{
+    "name": "opinion",
+    "trans": "意见 看法",
+    "root": "",
+    "associate": "",
+    "chapte": "59"
+  }
+  ,{
+    "name": "ensures",
+    "trans": "保证",
+    "root": "",
+    "associate": "",
+    "chapte": "59"
+  }
+  ,{
+    "name": "rather",
+    "trans": "相当 宁愿 而不是",
     "root": "",
     "associate": "",
     "chapte": "59"
