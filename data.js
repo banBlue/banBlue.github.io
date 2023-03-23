@@ -15569,4 +15569,11 @@
     "associate": "",
     "chapte": "59"
   }
+  ,{
+    "name": "as well as",
+    "trans": "也 和...一样 不但...而且",
+    "root": "",
+    "associate": "",
+    "chapte": "59"
+  }
 ]
