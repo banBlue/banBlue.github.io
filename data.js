@@ -15457,4 +15457,74 @@
     "associate": "",
     "chapte": "58"
   }
+  ,{
+    "name": "inferred",
+    "trans": "推测",
+    "root": "",
+    "associate": "",
+    "chapte": "59"
+  }
+  ,{
+    "name": "dense",
+    "trans": "a:稠密的",
+    "root": "",
+    "associate": "",
+    "chapte": "59"
+  }
+  ,{
+    "name": "bloom",
+    "trans": "花 v:开花 精神焕发",
+    "root": "",
+    "associate": "",
+    "chapte": "59"
+  }
+  ,{
+    "name": "known",
+    "trans": "a:已知的 出了名的 v:知道",
+    "root": "",
+    "associate": "",
+    "chapte": "59"
+  }
+  ,{
+    "name": "prosperity",
+    "trans": "繁荣",
+    "root": "",
+    "associate": "",
+    "chapte": "59"
+  }
+  ,{
+    "name": "above all",
+    "trans": "首先 尤其",
+    "root": "",
+    "associate": "",
+    "chapte": "59"
+  }
+  ,{
+    "name": "explosion",
+    "trans": "爆破",
+    "root": "",
+    "associate": "",
+    "chapte": "59"
+  }
+  ,{
+    "name": "one-time",
+    "trans": "一次 一度",
+    "root": "",
+    "associate": "",
+    "chapte": "59"
+  }
+  ,{
+    "name": "earned",
+    "trans": "a:挣的起 v:挣得",
+    "root": "",
+    "associate": "",
+    "chapte": "59"
+  }
+  ,{
+    "name": "phase",
+    "trans": "阶段 时期",
+    "root": "",
+    "associate": "",
+    "chapte": "59"
+  }
 ]
