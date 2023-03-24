@@ -15528,16 +15528,18 @@
     "chapte": "59"
   }
   ,{
-    "name": "persist",
-    "trans": "v:继续存在 持续",
-    "root": "",
-    "associate": "",
-    "chapte": "60"
     "name": "encounter",
     "trans": "遭遇",
     "root": "",
     "associate": "",
     "chapte": "59"
+  }
+  ,{
+    "name": "persist",
+    "trans": "v:继续存在 持续",
+    "root": "",
+    "associate": "",
+    "chapte": "60"
   }
   ,{
     "name": "candidate",
