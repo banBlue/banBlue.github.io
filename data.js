@@ -15410,7 +15410,7 @@
   }
   ,{
     "name": "tastes",
-    "trans": "意思是 打算",
+    "trans": "味道，品味",
     "root": "",
     "associate": "",
     "chapte": "58"
@@ -15526,5 +15526,47 @@
     "root": "",
     "associate": "",
     "chapte": "59"
+  }
+  ,{
+    "name": "usually",
+    "trans": "adv.通常地，经常地",
+    "root": "",
+    "associate": "unusually不同寻常地 特别地",
+    "chapte": "60"
+  }
+  ,{
+    "name": "bound",
+    "trans": "a:必然的 肯定的 n:界限 v:捆绑",
+    "root": "",
+    "associate": "",
+    "chapte": "60"
+  }
+  ,{
+    "name": "smart",
+    "trans": "聪明的",
+    "root": "",
+    "associate": "",
+    "chapte": "60"
+  }
+  ,{
+    "name": "emphasis",
+    "trans": "n. 重要性 强调",
+    "root": "",
+    "associate": "",
+    "chapte": "60"
+  }
+  ,{
+    "name": "breed",
+    "trans": "v. 交配繁殖；饲养 n:品种 种类",
+    "root": "",
+    "associate": "",
+    "chapte": "60"
+  }
+  ,{
+    "name": "persist",
+    "trans": "v:继续存在 持续",
+    "root": "",
+    "associate": "",
+    "chapte": "60"
   }
 ]
