@@ -3479,13 +3479,6 @@
       "chapte": "15"
   },
   {
-      "name": "work",
-      "trans": "工作",
-      "root": "",
-      "associate": "",
-      "chapte": "15"
-  },
-  {
       "name": "organ",
       "trans": "器官",
       "root": "",
