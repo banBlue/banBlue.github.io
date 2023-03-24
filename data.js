@@ -15611,4 +15611,60 @@
     "associate": "",
     "chapte": "60"
   }
+  ,{
+    "name": "coal",
+    "trans": "煤",
+    "root": "",
+    "associate": "",
+    "chapte": "60"
+  }
+  ,{
+    "name": "thus",
+    "trans": "因此 这样",
+    "root": "",
+    "associate": "",
+    "chapte": "60"
+  }
+  ,{
+    "name": "notion",
+    "trans": "概念，想法",
+    "root": "",
+    "associate": "",
+    "chapte": "60"
+  }
+  ,{
+    "name": "whenever",
+    "trans": "无论何时 当时",
+    "root": "",
+    "associate": "",
+    "chapte": "60"
+  }
+  ,{
+    "name": "tied",
+    "trans": "绑在 捆绑",
+    "root": "",
+    "associate": "tied island 陆连岛",
+    "chapte": "60"
+  }
+  ,{
+    "name": "interaction",
+    "trans": "互动 交流",
+    "root": "",
+    "associate": "",
+    "chapte": "60"
+  }
+  ,{
+    "name": "investment",
+    "trans": "投资 投入",
+    "root": "",
+    "associate": "",
+    "chapte": "60"
+  }
+  ,{
+    "name": "concept",
+    "trans": "概念 观念",
+    "root": "",
+    "associate": "",
+    "chapte": "60"
+  }
 ]
