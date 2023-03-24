@@ -15550,7 +15550,7 @@
   }
   ,{
     "name": "objective",
-    "trans": "主观的",
+    "trans": "客观的",
     "root": "",
     "associate": "",
     "chapte": "59"
