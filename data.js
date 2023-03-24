@@ -15587,7 +15587,7 @@
     "name": "bound",
     "trans": "a:必然的 肯定的 n:界限 v:捆绑",
     "root": "",
-    "associate": "",
+    "associate": "bind的过去式",
     "chapte": "60"
   }
   ,{
