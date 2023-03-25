@@ -2752,7 +2752,7 @@
   },
   {
       "name": "devote",
-      "trans": "v献身",
+      "trans": "v献身 致力 用于",
       "root": "",
       "associate": "宣誓把...献身",
       "chapte": "13"
@@ -10753,7 +10753,7 @@
   },
   {
       "name": "fund",
-      "trans": "基金",
+      "trans": "基金 资金",
       "root": "",
       "associate": "",
       "chapte": "39"
@@ -15840,6 +15840,90 @@
     "trans": "a:后者的 后期的 n:后者",
     "root": "",
     "associate": "the latter后者",
+    "chapte": "61"
+  }
+  ,{
+    "name": "headway",
+    "trans": "n:前进 进步",
+    "root": "",
+    "associate": "",
+    "chapte": "61"
+  }
+  ,{
+    "name": "budget",
+    "trans": "n:预算",
+    "root": "",
+    "associate": "",
+    "chapte": "61"
+  }
+  ,{
+    "name": "allocate",
+    "trans": "v:预算",
+    "root": "",
+    "associate": "",
+    "chapte": "61"
+  }
+  ,{
+    "name": "sake",
+    "trans": "利益 好处",
+    "root": "",
+    "associate": "",
+    "chapte": "61"
+  }
+  ,{
+    "name": "droughts",
+    "trans": "干旱 旱灾",
+    "root": "",
+    "associate": "",
+    "chapte": "61"
+  }
+  ,{
+    "name": "shocking",
+    "trans": "a:令人震惊的 v:震动 冲突",
+    "root": "",
+    "associate": "",
+    "chapte": "61"
+  }
+  ,{
+    "name": "practical",
+    "trans": "真实的 实际的",
+    "root": "",
+    "associate": "",
+    "chapte": "61"
+  }
+  ,{
+    "name": "career",
+    "trans": "职业",
+    "root": "",
+    "associate": "",
+    "chapte": "61"
+  }
+  ,{
+    "name": "smooth",
+    "trans": "a:光滑的 平整的",
+    "root": "",
+    "associate": "",
+    "chapte": "61"
+  }
+  ,{
+    "name": "radical",
+    "trans": "激进的",
+    "root": "",
+    "associate": "",
+    "chapte": "61"
+  }
+  ,{
+    "name": "tone",
+    "trans": "n:语气 v:使强调",
+    "root": "",
+    "associate": "",
+    "chapte": "61"
+  }
+  ,{
+    "name": "protest",
+    "trans": "n:抗议 v:反对",
+    "root": "",
+    "associate": "",
     "chapte": "61"
   }
 ]
