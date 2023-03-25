@@ -8641,7 +8641,7 @@
       "name": "due",
       "trans": "a:由于 到期的",
       "root": "",
-      "associate": "",
+      "associate": "due to由于 归功于",
       "chapte": "33"
   },
   {
@@ -15756,6 +15756,90 @@
     "trans": "晚上",
     "root": "",
     "associate": "",
+    "chapte": "61"
+  }
+  ,{
+    "name": "conflict",
+    "trans": "争论 战斗 v:冲突",
+    "root": "",
+    "associate": "",
+    "chapte": "61"
+  }
+  ,{
+    "name": "criticism",
+    "trans": "批评",
+    "root": "",
+    "associate": "",
+    "chapte": "61"
+  }
+  ,{
+    "name": "crazy",
+    "trans": "疯狂的",
+    "root": "",
+    "associate": "",
+    "chapte": "61"
+  }
+  ,{
+    "name": "sacrificed",
+    "trans": "牺牲",
+    "root": "",
+    "associate": "",
+    "chapte": "61"
+  }
+  ,{
+    "name": "rubbish",
+    "trans": "垃圾",
+    "root": "",
+    "associate": "",
+    "chapte": "61"
+  }
+  ,{
+    "name": "sparked",
+    "trans": "v:点燃 发动",
+    "root": "",
+    "associate": "",
+    "chapte": "61"
+  }
+  ,{
+    "name": "shameless",
+    "trans": "无耻的",
+    "root": "",
+    "associate": "",
+    "chapte": "61"
+  }
+  ,{
+    "name": "strike",
+    "trans": "打 达成",
+    "root": "",
+    "associate": "",
+    "chapte": "61"
+  }
+  ,{
+    "name": "access",
+    "trans": "n:通道 使用权",
+    "root": "",
+    "associate": "",
+    "chapte": "61"
+  }
+  ,{
+    "name": "frustration",
+    "trans": "n:懊恼",
+    "root": "",
+    "associate": "",
+    "chapte": "61"
+  }
+  ,{
+    "name": "misleading",
+    "trans": "a:误导的 v:把。。。引入歧途",
+    "root": "",
+    "associate": "",
+    "chapte": "61"
+  }
+  ,{
+    "name": "latter",
+    "trans": "a:后者的 后期的 n:后者",
+    "root": "",
+    "associate": "the latter后者",
     "chapte": "61"
   }
 ]
