@@ -15667,4 +15667,95 @@
     "associate": "",
     "chapte": "60"
   }
+  ,{
+    "name": "charming",
+    "trans": "a:迷人的 v:吸引",
+    "root": "",
+    "associate": "",
+    "chapte": "61"
+  }
+  ,{
+    "name": "which",
+    "trans": "哪一个",
+    "root": "",
+    "associate": "",
+    "chapte": "61"
+  }
+  ,{
+    "name": "countered",
+    "trans": "柜台 对立面 v:反驳 a:反面的",
+    "root": "",
+    "associate": "",
+    "chapte": "61"
+  }
+  ,{
+    "name": "take up",
+    "trans": "拿起 占据",
+    "root": "",
+    "associate": "",
+    "chapte": "61"
+  }
+  ,{
+    "name": "slice",
+    "trans": "n:薄片 v:把...切成薄片 切 割",
+    "root": "",
+    "associate": "",
+    "chapte": "61"
+  }
+  ,{
+    "name": "analysis",
+    "trans": "分析",
+    "root": "",
+    "associate": "",
+    "chapte": "61"
+  }
+  ,{
+    "name": "memorable",
+    "trans": "令人难忘",
+    "root": "",
+    "associate": "",
+    "chapte": "61"
+  }
+  ,{
+    "name": "youth",
+    "trans": "青少年时期",
+    "root": "",
+    "associate": "",
+    "chapte": "61"
+  }
+  ,{
+    "name": "telling",
+    "trans": "a:生动的 n:讲述 叙述 v:告诉",
+    "root": "",
+    "associate": "",
+    "chapte": "61"
+  }
+  ,{
+    "name": "appear",
+    "trans": "v:出现 呈现 演出",
+    "root": "",
+    "associate": "",
+    "chapte": "61"
+  }
+  ,{
+    "name": "fit",
+    "trans": "v:适合 合身 a:健康的 n:适合",
+    "root": "",
+    "associate": "",
+    "chapte": "61"
+  }
+  ,{
+    "name": "blow",
+    "trans": "v:刮 吹 爆炸 n:大风",
+    "root": "",
+    "associate": "",
+    "chapte": "61"
+  }
+  ,{
+    "name": "evening",
+    "trans": "晚上",
+    "root": "",
+    "associate": "",
+    "chapte": "61"
+  }
 ]
