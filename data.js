@@ -1591,7 +1591,7 @@
   {
       "chapte": "8",
       "name": "satisfy",
-      "trans": "v:满意",
+      "trans": "v:满意 使满足",
       "root": "",
       "associate": ""
   },
@@ -15499,7 +15499,7 @@
   }
   ,{
     "name": "explosion",
-    "trans": "爆破",
+    "trans": "爆破 爆炸",
     "root": "",
     "associate": "",
     "chapte": "59"
@@ -16012,14 +16012,112 @@
     "name": "mean",
     "trans": "v:意味着 表示...的意思 当真 adj:吝啬的 n:平均数 中位数",
     "root": "",
-    "associate": "lose过去式",
+    "associate": "",
     "chapte": "62"
   }
   ,{
     "name": "voluntary",
     "trans": "a:自愿的",
     "root": "",
-    "associate": "lose过去式",
+    "associate": "",
+    "chapte": "62"
+  }
+  ,{
+    "name": "taught",
+    "trans": "v:教授",
+    "root": "",
+    "associate": "teach的过去分词",
+    "chapte": "62"
+  }
+  ,{
+    "name": "launched",
+    "trans": "v:发射 启动 下水",
+    "root": "",
+    "associate": "",
+    "chapte": "62"
+  }
+  ,{
+    "name": "log",
+    "trans": "原木 正式记录 日志",
+    "root": "",
+    "associate": "",
+    "chapte": "62"
+  }
+  ,{
+    "name": "diploma",
+    "trans": "毕业证",
+    "root": "",
+    "associate": "",
+    "chapte": "62"
+  }
+  ,{
+    "name": "mill",
+    "trans": "工厂",
+    "root": "",
+    "associate": "",
+    "chapte": "62"
+  }
+  ,{
+    "name": "milk",
+    "trans": "原木 正式记录 日志",
+    "root": "",
+    "associate": "",
+    "chapte": "62"
+  }
+  ,{
+    "name": "victims",
+    "trans": "受害者",
+    "root": "",
+    "associate": "",
+    "chapte": "62"
+  }
+  ,{
+    "name": "tropical",
+    "trans": "a:热带的",
+    "root": "",
+    "associate": "",
+    "chapte": "62"
+  }
+  ,{
+    "name": "essential",
+    "trans": "a:必不可少的 n:必需品 要素 本质",
+    "root": "",
+    "associate": "",
+    "chapte": "62"
+  }
+  ,{
+    "name": "cheaper",
+    "trans": "更便宜",
+    "root": "",
+    "associate": "",
+    "chapte": "62"
+  }
+  ,{
+    "name": "cardboard",
+    "trans": "硬纸板",
+    "root": "",
+    "associate": "",
+    "chapte": "62"
+  }
+  ,{
+    "name": "mile",
+    "trans": "英里",
+    "root": "",
+    "associate": "",
+    "chapte": "62"
+  }
+  ,{
+    "name": "on the other hand",
+    "trans": "另一方面",
+    "root": "",
+    "associate": "",
+    "chapte": "62"
+  }
+  ,{
+    "name": "reproduction",
+    "trans": "生殖",
+    "root": "",
+    "associate": "",
     "chapte": "62"
   }
 ]
