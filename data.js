@@ -16059,7 +16059,7 @@
   }
   ,{
     "name": "milk",
-    "trans": "原木 正式记录 日志",
+    "trans": "奶 v:挤奶",
     "root": "",
     "associate": "",
     "chapte": "62"
@@ -16227,7 +16227,7 @@
   }
   ,{
     "name": "pursue",
-    "trans": "学费",
+    "trans": "追求",
     "root": "",
     "associate": "",
     "chapte": "62"
