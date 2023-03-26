@@ -674,7 +674,7 @@
   {
       "chapte": "5",
       "name": "company",
-      "trans": "n:公司,伴侣",
+      "trans": "n:公司,伴侣,朋友",
       "root": "",
       "associate": ""
   },
@@ -3774,7 +3774,7 @@
   },
   {
       "name": "live",
-      "trans": "v:生活 居住 a:直播",
+      "trans": "v:生活 居住 a:直播 n:活着",
       "root": "",
       "associate": "",
       "chapte": "16"
@@ -7435,7 +7435,7 @@
   },
   {
       "name": "capital",
-      "trans": "首都 省会 资本",
+      "trans": "首都 省会 资本 a:死刑的",
       "root": "",
       "associate": "经济的源头",
       "chapte": "28"
@@ -13541,7 +13541,7 @@
       "name": "thief",
       "trans": "小偷 盗窃",
       "root": "",
-      "associate": "",
+      "associate": "thieves复数形式",
       "chapte": "49"
   },
   {
@@ -15395,6 +15395,11 @@
   ,{
     "name": "focus on",
     "trans": "集中于",
+    "root": "",
+    "associate": "",
+    "chapte": "58"
+  },
+  {
     "name": "meant",
     "trans": "意思是 打算",
     "root": "",
@@ -15858,7 +15863,7 @@
   }
   ,{
     "name": "allocate",
-    "trans": "v:预算",
+    "trans": "v:分配 分派",
     "root": "",
     "associate": "",
     "chapte": "61"
@@ -15925,5 +15930,96 @@
     "root": "",
     "associate": "",
     "chapte": "61"
+  }
+  ,{
+    "name": "ring",
+    "trans": "n:戒指 指环 环状物 v:包围",
+    "root": "",
+    "associate": "",
+    "chapte": "62"
+  }
+  ,{
+    "name": "keep tabs on",
+    "trans": "监视 密切注意",
+    "root": "",
+    "associate": "",
+    "chapte": "62"
+  }
+  ,{
+    "name": "nothing",
+    "trans": "没有什么 无关紧要的事(人) adv:并不 毫不",
+    "root": "",
+    "associate": "",
+    "chapte": "62"
+  }
+  ,{
+    "name": "cell",
+    "trans": "细胞  小牢房 电池",
+    "root": "",
+    "associate": "",
+    "chapte": "62"
+  }
+  ,{
+    "name": "pity",
+    "trans": "同情 怜悯",
+    "root": "",
+    "associate": "",
+    "chapte": "62"
+  }
+  ,{
+    "name": "bet",
+    "trans": "v:打赌 n:下注 猜想",
+    "root": "",
+    "associate": "",
+    "chapte": "62"
+  }
+  ,{
+    "name": "pure",
+    "trans": "a:纯的 干净的",
+    "root": "",
+    "associate": "",
+    "chapte": "62"
+  }
+  ,{
+    "name": "radiculous",
+    "trans": "荒谬的",
+    "root": "",
+    "associate": "",
+    "chapte": "62"
+  }
+  ,{
+    "name": "equally",
+    "trans": "adv:相当地 同样地 相等地",
+    "root": "",
+    "associate": "",
+    "chapte": "62"
+  }
+  ,{
+    "name": "moral",
+    "trans": "a:道德的",
+    "root": "",
+    "associate": "immoral:不道德的",
+    "chapte": "62"
+  }
+  ,{
+    "name": "lost",
+    "trans": "a:迷路的 迷失的 v:遗失 失去 输掉",
+    "root": "",
+    "associate": "lose过去式",
+    "chapte": "62"
+  }
+  ,{
+    "name": "mean",
+    "trans": "v:意味着 表示...的意思 当真 adj:吝啬的 n:平均数 中位数",
+    "root": "",
+    "associate": "lose过去式",
+    "chapte": "62"
+  }
+  ,{
+    "name": "voluntary",
+    "trans": "a:自愿的",
+    "root": "",
+    "associate": "lose过去式",
+    "chapte": "62"
   }
 ]
