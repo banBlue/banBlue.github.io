@@ -9584,7 +9584,7 @@
   },
   {
       "name": "strong",
-      "trans": "a:强壮的 坚固的",
+      "trans": "a:强壮的 坚固的 强烈的",
       "root": "",
       "associate": "",
       "chapte": "36"
@@ -14393,7 +14393,7 @@
   },
   {
     "name": "pretty",
-    "trans": "漂亮 adv:很 非常",
+    "trans": "漂亮 adv:很 非常 相当",
     "root": "",
     "associate": "",
     "chapte": "53"
@@ -16116,6 +16116,132 @@
   ,{
     "name": "reproduction",
     "trans": "生殖",
+    "root": "",
+    "associate": "",
+    "chapte": "62"
+  }
+  ,{
+    "name": "spinning",
+    "trans": "v:快速旋转",
+    "root": "",
+    "associate": "",
+    "chapte": "62"
+  }
+  ,{
+    "name": "exploit",
+    "trans": "v:剥削 发挥 利用 n:英勇事迹",
+    "root": "",
+    "associate": "",
+    "chapte": "62"
+  }
+  ,{
+    "name": "essentially",
+    "trans": "adv:本质上 根本上",
+    "root": "",
+    "associate": "",
+    "chapte": "62"
+  }
+  ,{
+    "name": "capable",
+    "trans": "a:有能力的",
+    "root": "",
+    "associate": "",
+    "chapte": "62"
+  }
+  ,{
+    "name": "partial",
+    "trans": "局部的 偏爱的",
+    "root": "",
+    "associate": "",
+    "chapte": "62"
+  }
+  ,{
+    "name": "ourselves",
+    "trans": "我们自己",
+    "root": "",
+    "associate": "",
+    "chapte": "62"
+  }
+  ,{
+    "name": "urban",
+    "trans": "a:城市的",
+    "root": "",
+    "associate": "",
+    "chapte": "62"
+  }
+  ,{
+    "name": "conquer",
+    "trans": "v:占领 征服",
+    "root": "",
+    "associate": "",
+    "chapte": "62"
+  }
+  ,{
+    "name": "distinguish",
+    "trans": "v:使有区别",
+    "root": "",
+    "associate": "",
+    "chapte": "62"
+  }
+  ,{
+    "name": "interfering",
+    "trans": "a:干涉的 v:妨碍",
+    "root": "",
+    "associate": "",
+    "chapte": "62"
+  }
+  ,{
+    "name": "artificial",
+    "trans": "a:人造的",
+    "root": "",
+    "associate": "",
+    "chapte": "62"
+  }
+  ,{
+    "name": "severe",
+    "trans": "a:严重的",
+    "root": "",
+    "associate": "",
+    "chapte": "62"
+  }
+  ,{
+    "name": "unwed",
+    "trans": "a:未婚的",
+    "root": "",
+    "associate": "",
+    "chapte": "62"
+  }
+  ,{
+    "name": "adoption",
+    "trans": "a:采用 收养",
+    "root": "",
+    "associate": "",
+    "chapte": "62"
+  }
+  ,{
+    "name": "tuition",
+    "trans": "学费",
+    "root": "",
+    "associate": "",
+    "chapte": "62"
+  }
+  ,{
+    "name": "pursue",
+    "trans": "学费",
+    "root": "",
+    "associate": "",
+    "chapte": "62"
+  }
+  ,{
+    "name": "someday",
+    "trans": "有朝一日",
+    "root": "",
+    "associate": "",
+    "chapte": "62"
+  }
+  ,{
+    "name": "scary",
+    "trans": "a:骇人的 令人惊奇的",
     "root": "",
     "associate": "",
     "chapte": "62"
