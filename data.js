@@ -4399,7 +4399,7 @@
       "name": "rise",
       "trans": "v:上升 起来",
       "root": "",
-      "associate": "",
+      "associate": "rising",
       "chapte": "18"
   },
   {
@@ -16245,5 +16245,33 @@
     "root": "",
     "associate": "",
     "chapte": "62"
+  }
+  ,{
+    "name": "peak",
+    "trans": "巅峰 v:达成巅峰 a:巅峰状态",
+    "root": "",
+    "associate": "",
+    "chapte": "63"
+  }
+  ,{
+    "name": "composed",
+    "trans": "a:平静的 镇定的 由...组成 v:组成 构成",
+    "root": "",
+    "associate": "",
+    "chapte": "63"
+  }
+  ,{
+    "name": "postwar",
+    "trans": "a:战后的 n:战后时期",
+    "root": "",
+    "associate": "",
+    "chapte": "63"
+  }
+  ,{
+    "name": "highest",
+    "trans": "a:最高的",
+    "root": "",
+    "associate": "",
+    "chapte": "63"
   }
 ]
