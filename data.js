@@ -7141,7 +7141,7 @@
   },
   {
       "name": "burst",
-      "trans": "v:爆发",
+      "trans": "v:爆发 冲,闯",
       "root": "",
       "associate": "",
       "chapte": "27"
@@ -16270,6 +16270,34 @@
   ,{
     "name": "highest",
     "trans": "a:最高的",
+    "root": "",
+    "associate": "",
+    "chapte": "63"
+  }
+  ,{
+    "name": "shirt",
+    "trans": "衬衫",
+    "root": "",
+    "associate": "",
+    "chapte": "63"
+  }
+  ,{
+    "name": "hammering",
+    "trans": "n. 锤击；锤打；抨击",
+    "root": "",
+    "associate": "",
+    "chapte": "63"
+  }
+  ,{
+    "name": "nail",
+    "trans": "钉子 指甲",
+    "root": "",
+    "associate": "",
+    "chapte": "63"
+  }
+  ,{
+    "name": "trouser",
+    "trans": "裤子 a:裤子的",
     "root": "",
     "associate": "",
     "chapte": "63"
