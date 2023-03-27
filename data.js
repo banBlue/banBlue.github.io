@@ -291,7 +291,7 @@
       "name": "catch",
       "trans": "v:抓住",
       "root": "",
-      "associate": ""
+      "associate": "caught v:捕捉"
   },
   {
       "chapte": "4",
@@ -9949,7 +9949,7 @@
   {
       "chapte": "37",
       "name": "pressure",
-      "trans": "压力 压迫 压强",
+      "trans": "压力 压迫 压强 v:对...施加压力",
       "root": "",
       "associate": ""
   },
@@ -16298,6 +16298,76 @@
   ,{
     "name": "trouser",
     "trans": "裤子 a:裤子的",
+    "root": "",
+    "associate": "",
+    "chapte": "63"
+  }
+  ,{
+    "name": "reliable",
+    "trans": "a:可靠的 n:可靠的人(或物)",
+    "root": "",
+    "associate": "",
+    "chapte": "63"
+  }
+  ,{
+    "name": "genuine",
+    "trans": "a:真正的 真诚的",
+    "root": "",
+    "associate": "",
+    "chapte": "63"
+  }
+  ,{
+    "name": "generosity",
+    "trans": "n:慷慨 大方",
+    "root": "",
+    "associate": "",
+    "chapte": "63"
+  }
+  ,{
+    "name": "miserable",
+    "trans": "a:痛苦的",
+    "root": "",
+    "associate": "",
+    "chapte": "63"
+  }
+  ,{
+    "name": "participants",
+    "trans": "参与者",
+    "root": "",
+    "associate": "",
+    "chapte": "63"
+  }
+  ,{
+    "name": "likeable",
+    "trans": "a:令人喜爱的",
+    "root": "",
+    "associate": "",
+    "chapte": "63"
+  }
+  ,{
+    "name": "disapproval",
+    "trans": "n:不赞同",
+    "root": "",
+    "associate": "",
+    "chapte": "63"
+  }
+  ,{
+    "name": "guidance",
+    "trans": "指导 指引",
+    "root": "",
+    "associate": "",
+    "chapte": "63"
+  }
+  ,{
+    "name": "direction",
+    "trans": "方向 方位",
+    "root": "",
+    "associate": "",
+    "chapte": "63"
+  }
+  ,{
+    "name": "presented",
+    "trans": "v:展示",
     "root": "",
     "associate": "",
     "chapte": "63"
