@@ -15135,7 +15135,7 @@
   }
   ,{
     "name": "relief",
-    "trans": "轻松",
+    "trans": "宽慰 轻松",
     "root": "",
     "associate": "",
     "chapte": "57"
