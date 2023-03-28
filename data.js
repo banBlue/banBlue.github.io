@@ -4565,7 +4565,7 @@
   },
   {
       "name": "proper",
-      "trans": "a:恰当的 ",
+      "trans": "a:真正的 像样的 恰当的 ",
       "root": "",
       "associate": "",
       "chapte": "18"
@@ -16396,6 +16396,34 @@
   ,{
     "name": "esteem",
     "trans": "adv:在别处,去别处",
+    "root": "",
+    "associate": "",
+    "chapte": "64"
+  }
+  ,{
+    "name": "place",
+    "trans": "n:地点 场所 v:放置",
+    "root": "",
+    "associate": "",
+    "chapte": "64"
+  }
+  ,{
+    "name": "unethical",
+    "trans": "不道德的",
+    "root": "",
+    "associate": "",
+    "chapte": "64"
+  }
+  ,{
+    "name": "dedicated",
+    "trans": "a:专心的 v:致力于",
+    "root": "",
+    "associate": "",
+    "chapte": "64"
+  }
+  ,{
+    "name": "dedicated",
+    "trans": "a:专心的 v:致力于",
     "root": "",
     "associate": "",
     "chapte": "64"
