@@ -4271,7 +4271,7 @@
   },
   {
       "name": "bow",
-      "trans": "弓 v:射箭",
+      "trans": "弓 v:射箭 弯 鞠躬 点头",
       "root": "",
       "associate": "",
       "chapte": "17"
@@ -15533,13 +15533,6 @@
     "chapte": "59"
   }
   ,{
-    "name": "persist",
-    "trans": "v:继续存在 持续",
-    "root": "",
-    "associate": "",
-    "chapte": "60"
-  }
-  ,{
     "name": "candidate",
     "trans": "候选人 申请者",
     "root": "",
@@ -15580,6 +15573,13 @@
     "root": "",
     "associate": "",
     "chapte": "59"
+  }
+  ,{
+    "name": "persist",
+    "trans": "v:继续存在 持续",
+    "root": "",
+    "associate": "",
+    "chapte": "60"
   }
   ,{
     "name": "usually",
@@ -16371,5 +16371,33 @@
     "root": "",
     "associate": "",
     "chapte": "63"
+  }
+  ,{
+    "name": "varied",
+    "trans": "a:各种各样的 v:(使)不同",
+    "root": "",
+    "associate": "",
+    "chapte": "64"
+  }
+  ,{
+    "name": "granted",
+    "trans": "v:授予 承认 adv:的确 诚然 conj:因为",
+    "root": "",
+    "associate": "",
+    "chapte": "64"
+  }
+  ,{
+    "name": "elsewhere",
+    "trans": "adv:在别处,去别处",
+    "root": "",
+    "associate": "",
+    "chapte": "64"
+  }
+  ,{
+    "name": "esteem",
+    "trans": "adv:在别处,去别处",
+    "root": "",
+    "associate": "",
+    "chapte": "64"
   }
 ]
