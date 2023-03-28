@@ -10168,7 +10168,7 @@
       "name": "fall",
       "trans": "v:落下 降落 跌倒 n:秋天 下降",
       "root": "",
-      "associate": ""
+      "associate": "fell过去式"
   },
   {
       "chapte": "38",
@@ -16422,8 +16422,78 @@
     "chapte": "64"
   }
   ,{
-    "name": "dedicated",
-    "trans": "a:专心的 v:致力于",
+    "name": "consult",
+    "trans": "v:咨询 请教",
+    "root": "",
+    "associate": "",
+    "chapte": "64"
+  }
+  ,{
+    "name": "allowance",
+    "trans": "n:津贴 补助 允许",
+    "root": "",
+    "associate": "",
+    "chapte": "64"
+  }
+  ,{
+    "name": "wish",
+    "trans": "v:希望 祝愿",
+    "root": "",
+    "associate": "",
+    "chapte": "64"
+  }
+  ,{
+    "name": "in any case",
+    "trans": "在任何情况下",
+    "root": "",
+    "associate": "",
+    "chapte": "64"
+  }
+  ,{
+    "name": "military",
+    "trans": "a:军事的 军队的 n:军人 军方",
+    "root": "",
+    "associate": "",
+    "chapte": "64"
+  }
+  ,{
+    "name": "brave",
+    "trans": "a:勇敢的",
+    "root": "",
+    "associate": "",
+    "chapte": "64"
+  }
+  ,{
+    "name": "fought",
+    "trans": "v:战斗 打架",
+    "root": "",
+    "associate": "fight的过去式",
+    "chapte": "64"
+  }
+  ,{
+    "name": "behind",
+    "trans": "prep:在...后面  忘掉 低于 adv:在后面",
+    "root": "",
+    "associate": "",
+    "chapte": "64"
+  }
+  ,{
+    "name": "taught herself",
+    "trans": "自学",
+    "root": "",
+    "associate": "",
+    "chapte": "64"
+  }
+  ,{
+    "name": "defense",
+    "trans": "防御",
+    "root": "",
+    "associate": "",
+    "chapte": "64"
+  }
+  ,{
+    "name": "take over",
+    "trans": "接管 接收",
     "root": "",
     "associate": "",
     "chapte": "64"
