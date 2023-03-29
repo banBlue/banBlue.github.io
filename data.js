@@ -4655,6 +4655,13 @@
       "chapte": "18"
   },
   {
+    "name": "employee",
+    "trans": "雇员",
+    "root": "",
+    "associate": "",
+    "chapte": "18"
+},
+  {
       "name": "unemployment",
       "trans": "失业",
       "root": "",
