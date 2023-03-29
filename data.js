@@ -16395,7 +16395,7 @@
   }
   ,{
     "name": "esteem",
-    "trans": "adv:在别处,去别处",
+    "trans": "n/v 尊重 敬重",
     "root": "",
     "associate": "",
     "chapte": "64"
