@@ -6924,7 +6924,7 @@
   },
   {
       "name": "remark",
-      "trans": "陈述 议论",
+      "trans": "n:陈述 议论 言论 显耀 v:谈论",
       "root": "",
       "associate": "把看过的东西在标记",
       "chapte": "26"
@@ -15367,13 +15367,6 @@
   ,{
     "name": "even",
     "trans": "即使 甚至",
-    "root": "",
-    "associate": "",
-    "chapte": "58"
-  }
-  ,{
-    "name": "remark",
-    "trans": "n:言论 显耀 v:谈论",
     "root": "",
     "associate": "",
     "chapte": "58"
