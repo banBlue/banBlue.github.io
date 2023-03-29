@@ -5125,7 +5125,7 @@
   },
   {
       "name": "eager",
-      "trans": "a:渴望的",
+      "trans": "a:热切的 渴望的",
       "root": "",
       "associate": "",
       "chapte": "20"
@@ -16522,6 +16522,27 @@
   ,{
     "name": "dispose",
     "trans": "v:处理 放置",
+    "root": "",
+    "associate": "",
+    "chapte": "65"
+  }
+  ,{
+    "name": "propose",
+    "trans": "v:提议 建议",
+    "root": "",
+    "associate": "",
+    "chapte": "65"
+  }
+  ,{
+    "name": "quarter",
+    "trans": "四分之一",
+    "root": "",
+    "associate": "",
+    "chapte": "65"
+  }
+  ,{
+    "name": "close quarter",
+    "trans": "近距离",
     "root": "",
     "associate": "",
     "chapte": "65"
