@@ -2248,7 +2248,7 @@
   },
   {
       "name": "dismiss",
-      "trans": "v:让 离开",
+      "trans": "v:让 离开 开除 解雇",
       "root": "",
       "associate": "送出去>送走",
       "chapte": "11"
@@ -5958,7 +5958,7 @@
   },
   {
       "name": "ground",
-      "trans": "地面",
+      "trans": "地面 v:以...为根据",
       "root": "",
       "associate": "",
       "chapte": "22"
@@ -15590,7 +15590,7 @@
   }
   ,{
     "name": "bound",
-    "trans": "a:必然的 肯定的 n:界限 v:捆绑",
+    "trans": "a:必然的 肯定的 受约束 n:界限 v:捆绑",
     "root": "",
     "associate": "bind的过去式",
     "chapte": "60"
@@ -16543,6 +16543,62 @@
   ,{
     "name": "close quarter",
     "trans": "近距离",
+    "root": "",
+    "associate": "",
+    "chapte": "65"
+  }
+  ,{
+    "name": "too much",
+    "trans": "太多",
+    "root": "",
+    "associate": "",
+    "chapte": "65"
+  }
+  ,{
+    "name": "stroke",
+    "trans": "n:中风 击 v:轻抚",
+    "root": "",
+    "associate": "",
+    "chapte": "65"
+  }
+  ,{
+    "name": "wound",
+    "trans": "n:创伤 v:伤害",
+    "root": "",
+    "associate": "",
+    "chapte": "65"
+  }
+  ,{
+    "name": "horror",
+    "trans": "惊骇",
+    "root": "",
+    "associate": "",
+    "chapte": "65"
+  }
+  ,{
+    "name": "towards",
+    "trans": "向 朝着 关于",
+    "root": "",
+    "associate": "",
+    "chapte": "65"
+  }
+  ,{
+    "name": "routine",
+    "trans": "n:常规",
+    "root": "",
+    "associate": "",
+    "chapte": "65"
+  }
+  ,{
+    "name": "raising",
+    "trans": "n:增加 提高 v:提升",
+    "root": "",
+    "associate": "",
+    "chapte": "65"
+  }
+  ,{
+    "name": "calmly",
+    "trans": "adv. 冷静地；平静地；安静地",
     "root": "",
     "associate": "",
     "chapte": "65"
