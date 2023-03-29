@@ -324,7 +324,7 @@
   {
       "chapte": "4",
       "name": "access",
-      "trans": "v/n:通道",
+      "trans": "v/n:通道 使用权 入口 v:接近",
       "root": "",
       "associate": ""
   },
@@ -10739,7 +10739,7 @@
   },
   {
       "name": "found",
-      "trans": "v:创立 创办 建立",
+      "trans": "v:创立 创办 建立 v:找到 发现(find过去式)",
       "root": "",
       "associate": "",
       "chapte": "39"
@@ -15820,13 +15820,6 @@
     "chapte": "61"
   }
   ,{
-    "name": "access",
-    "trans": "n:通道 使用权",
-    "root": "",
-    "associate": "",
-    "chapte": "61"
-  }
-  ,{
     "name": "frustration",
     "trans": "n:懊恼",
     "root": "",
@@ -16599,6 +16592,13 @@
   ,{
     "name": "calmly",
     "trans": "adv. 冷静地；平静地；安静地",
+    "root": "",
+    "associate": "",
+    "chapte": "65"
+  }
+  ,{
+    "name": "digital",
+    "trans": "a:数字的 数码的 n:数码电视",
     "root": "",
     "associate": "",
     "chapte": "65"
