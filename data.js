@@ -10552,7 +10552,7 @@
       "name": "fly",
       "trans": "n:飞行 苍蝇 v:飞",
       "root": "",
-      "associate": "",
+      "associate": "flew过去式 飞翔 ",
       "chapte": "39"
   },
   {
@@ -16497,5 +16497,33 @@
     "root": "",
     "associate": "",
     "chapte": "64"
+  }
+  ,{
+    "name": "collapse",
+    "trans": "v:倒塌 塌下",
+    "root": "",
+    "associate": "",
+    "chapte": "65"
+  }
+  ,{
+    "name": "negotiated",
+    "trans": "a:商谈的",
+    "root": "",
+    "associate": "",
+    "chapte": "65"
+  }
+  ,{
+    "name": "spray",
+    "trans": "n:喷雾液体 v:喷",
+    "root": "",
+    "associate": "",
+    "chapte": "65"
+  }
+  ,{
+    "name": "dispose",
+    "trans": "v:处理 放置",
+    "root": "",
+    "associate": "",
+    "chapte": "65"
   }
 ]
