@@ -16526,4 +16526,81 @@
     "associate": "",
     "chapte": "65"
   }
+  ,{
+    "name": "quarter",
+    "trans": "四分之一",
+    "root": "",
+    "associate": "",
+    "chapte": "65"
+  }
+  ,{
+    "name": "too much",
+    "trans": "太多",
+    "root": "",
+    "associate": "",
+    "chapte": "65"
+  }
+  ,{
+    "name": "close quarter",
+    "trans": "近距离",
+    "root": "",
+    "associate": "",
+    "chapte": "65"
+  }
+  ,{
+    "name": "stroke",
+    "trans": "n:中风 击 v:轻抚",
+    "root": "",
+    "associate": "",
+    "chapte": "65"
+  }
+  ,{
+    "name": "wound",
+    "trans": "n:创伤 v:伤害",
+    "root": "",
+    "associate": "",
+    "chapte": "65"
+  }
+  ,{
+    "name": "horror",
+    "trans": "惊骇",
+    "root": "",
+    "associate": "",
+    "chapte": "65"
+  }
+  ,{
+    "name": "towards",
+    "trans": "向 朝着 关于",
+    "root": "",
+    "associate": "",
+    "chapte": "65"
+  }
+  ,{
+    "name": "routine",
+    "trans": "n:常规",
+    "root": "",
+    "associate": "",
+    "chapte": "65"
+  }
+  ,{
+    "name": "raising",
+    "trans": "n:增加 提高 v:提升",
+    "root": "",
+    "associate": "",
+    "chapte": "65"
+  }
+  ,{
+    "name": "calmly",
+    "trans": "adv. 冷静地；平静地；安静地",
+    "root": "",
+    "associate": "",
+    "chapte": "65"
+  }
+  ,{
+    "name": "digital",
+    "trans": "a:数字的 数码的 n:数码电视",
+    "root": "",
+    "associate": "",
+    "chapte": "65"
+  }
 ]
