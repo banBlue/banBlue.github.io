@@ -16603,4 +16603,33 @@
     "associate": "",
     "chapte": "65"
   }
+  ,{
+    "name": "abundance",
+    "trans": "大量",
+    "root": "",
+    "associate": "",
+    "chapte": "65"
+  }
+  ,{
+    "name": "peasant",
+    "trans": "农民",
+    "root": "",
+    "associate": "",
+    "chapte": "65"
+  }
+  ,{
+    "name": "genetic",
+    "trans": "a:基因的",
+    "root": "",
+    "associate": "",
+    "chapte": "65"
+  }
+  ,{
+    "name": "ideal",
+    "trans": "a:理想的 最佳的 n:理想",
+    "root": "",
+    "associate": "",
+    "chapte": "65"
+  }
+  
 ]
