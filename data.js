@@ -14644,6 +14644,13 @@
     "chapte": "55"
   },
   {
+    "name": "strange",
+    "trans": "a:奇怪的",
+    "root": "",
+    "associate": "",
+    "chapte": "55"
+  },
+  {
     "name": "stranger",
     "trans": "陌生人",
     "root": "",
@@ -16409,7 +16416,7 @@
   }
   ,{
     "name": "dedicated",
-    "trans": "a:专心的 v:致力于",
+    "trans": "a:专心的 v:致力于 献身于",
     "root": "",
     "associate": "",
     "chapte": "64"
@@ -16631,5 +16638,67 @@
     "associate": "",
     "chapte": "65"
   }
-  
+  ,{
+    "name": "pilots",
+    "trans": "飞行员",
+    "root": "",
+    "associate": "",
+    "chapte": "66"
+  }
+  ,{
+    "name": "craft",
+    "trans": "工艺 v:精心制作",
+    "root": "",
+    "associate": "",
+    "chapte": "66"
+  }
+  ,{
+    "name": "neglecting",
+    "trans": "忽视",
+    "root": "",
+    "associate": "",
+    "chapte": "66"
+  }
+  ,{
+    "name": "flourish",
+    "trans": "v:繁荣 茁长成长 牛逼",
+    "root": "",
+    "associate": "",
+    "chapte": "66"
+  }
+  ,{
+    "name": "pool",
+    "trans": "游泳池",
+    "root": "",
+    "associate": "",
+    "chapte": "66"
+  }
+  ,{
+    "name": "sound",
+    "trans": "声音",
+    "root": "",
+    "associate": "",
+    "chapte": "66"
+  }
+  ,{
+    "name": "lead to",
+    "trans": "导致",
+    "root": "",
+    "associate": "",
+    "chapte": "66"
+  }
+  ,{
+    "name": "depends on",
+    "trans": "依靠 依赖",
+    "root": "",
+    "associate": "",
+    "chapte": "66"
+  }
+  ,{
+    "name": "puzzled",
+    "trans": "a:困惑的 不解的",
+    "root": "",
+    "associate": "",
+    "chapte": "66"
+  }
 ]
