@@ -16701,4 +16701,53 @@
     "associate": "",
     "chapte": "66"
   }
+  ,{
+    "name": "sheet",
+    "trans": "床单 工作表 v:盖上",
+    "root": "",
+    "associate": "",
+    "chapte": "67"
+  }
+  ,{
+    "name": "keen",
+    "trans": "a:渴望的 热衷的",
+    "root": "",
+    "associate": "",
+    "chapte": "67"
+  }
+  ,{
+    "name": "creams",
+    "trans": "a:面霜 奶油 v:搅拌...成奶油",
+    "root": "",
+    "associate": "",
+    "chapte": "67"
+  }
+  ,{
+    "name": "homemaker",
+    "trans": "主妇",
+    "root": "",
+    "associate": "",
+    "chapte": "67"
+  }
+  ,{
+    "name": "stuff",
+    "trans": "东西",
+    "root": "",
+    "associate": "",
+    "chapte": "67"
+  }
+  ,{
+    "name": "yet",
+    "trans": "仍然 还 现在 conj:然而，但是",
+    "root": "",
+    "associate": "",
+    "chapte": "67"
+  }
+  ,{
+    "name": "accidental",
+    "trans": "a:意外的 偶然的",
+    "root": "",
+    "associate": "",
+    "chapte": "67"
+  }
 ]
