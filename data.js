@@ -16750,4 +16750,25 @@
     "associate": "",
     "chapte": "67"
   }
+  ,{
+    "name": "take into",
+    "trans": "考虑到；说服",
+    "root": "",
+    "associate": "",
+    "chapte": "67"
+  }
+  ,{
+    "name": "bias",
+    "trans": "偏见",
+    "root": "",
+    "associate": "",
+    "chapte": "67"
+  }
+  ,{
+    "name": "assertion",
+    "trans": "断言，明确肯定",
+    "root": "",
+    "associate": "",
+    "chapte": "67"
+  }
 ]
