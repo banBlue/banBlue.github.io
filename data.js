@@ -16869,4 +16869,46 @@
     "associate": "",
     "chapte": "68"
   }
+  ,{
+    "name": "reluctant",
+    "trans": "a:勉强的 不情愿的",
+    "root": "",
+    "associate": "",
+    "chapte": "68"
+  }
+  ,{
+    "name": "tremendous",
+    "trans": "a:巨大的",
+    "root": "",
+    "associate": "",
+    "chapte": "68"
+  }
+  ,{
+    "name": "consultation",
+    "trans": "咨询 商讨",
+    "root": "",
+    "associate": "",
+    "chapte": "68"
+  }
+  ,{
+    "name": "spared",
+    "trans": "v:幸免 饶恕",
+    "root": "",
+    "associate": "",
+    "chapte": "68"
+  }
+  ,{
+    "name": "hurried",
+    "trans": "a:匆忙的 v:催促",
+    "root": "",
+    "associate": "",
+    "chapte": "68"
+  }
+  ,{
+    "name": "reduction",
+    "trans": "n:减少 降低",
+    "root": "",
+    "associate": "",
+    "chapte": "68"
+  }
 ]
