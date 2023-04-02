@@ -1933,7 +1933,7 @@
   },
   {
       "name": "direct",
-      "trans": "v:引导 adj:直接的 直达的",
+      "trans": "v:引导 adj:直接的 直达的 正好的",
       "root": "",
       "associate": "",
       "chapte": "10"
@@ -7050,7 +7050,7 @@
   },
   {
       "name": "boot",
-      "trans": "长筒靴",
+      "trans": "长筒靴 v:猛踢 启动",
       "root": "",
       "associate": "",
       "chapte": "26"
@@ -8793,7 +8793,7 @@
   },
   {
       "name": "account",
-      "trans": "账目 账户",
+      "trans": "账目 账户 v:解释",
       "root": "",
       "associate": "",
       "chapte": "32"
@@ -14162,7 +14162,7 @@
   },
   {
     "name": "along",
-    "trans": "prep:沿着 顺着",
+    "trans": "prep:沿着 顺着 一起",
     "root": "",
     "associate": "",
     "chapte": "51"
@@ -16770,5 +16770,103 @@
     "root": "",
     "associate": "",
     "chapte": "67"
+  }
+  ,{
+    "name": "kick",
+    "trans": "v:踢 踢腿",
+    "root": "",
+    "associate": "",
+    "chapte": "68"
+  }
+  ,{
+    "name": "across",
+    "trans": "穿过 从一边到另一边",
+    "root": "",
+    "associate": "",
+    "chapte": "68"
+  }
+  ,{
+    "name": "virtual",
+    "trans": "几乎...的",
+    "root": "",
+    "associate": "",
+    "chapte": "68"
+  }
+  ,{
+    "name": "tiny",
+    "trans": "a:极小的",
+    "root": "",
+    "associate": "",
+    "chapte": "68"
+  }
+  ,{
+    "name": "able",
+    "trans": "a:有能力的  能够",
+    "root": "",
+    "associate": "",
+    "chapte": "68"
+  }
+  ,{
+    "name": "alter",
+    "trans": "v:改变 更改",
+    "root": "",
+    "associate": "",
+    "chapte": "68"
+  }
+  ,{
+    "name": "further",
+    "trans": "adv:更远地 adj:更多的",
+    "root": "",
+    "associate": "",
+    "chapte": "68"
+  }
+  ,{
+    "name": "identify",
+    "trans": "v:认出 识别 证明(身份)",
+    "root": "",
+    "associate": "",
+    "chapte": "68"
+  }
+  ,{
+    "name": "donate",
+    "trans": "v:捐赠",
+    "root": "",
+    "associate": "",
+    "chapte": "68"
+  }
+  ,{
+    "name": "kite",
+    "trans": "风筝",
+    "root": "",
+    "associate": "",
+    "chapte": "68"
+  }
+  ,{
+    "name": "meal",
+    "trans": "一餐",
+    "root": "",
+    "associate": "",
+    "chapte": "68"
+  }
+  ,{
+    "name": "nurse",
+    "trans": "护士",
+    "root": "",
+    "associate": "",
+    "chapte": "68"
+  }
+  ,{
+    "name": "rhythm",
+    "trans": "v:节奏，韵律 规则变化",
+    "root": "",
+    "associate": "",
+    "chapte": "68"
+  }
+  ,{
+    "name": "put into",
+    "trans": "投入",
+    "root": "",
+    "associate": "",
+    "chapte": "68"
   }
 ]
