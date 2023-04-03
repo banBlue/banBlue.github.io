@@ -16926,7 +16926,7 @@
     "chapte": "68"
   }
   ,{
-    "name": "subtance",
+    "name": "substance",
     "trans": "物质 材料",
     "root": "",
     "associate": "",
