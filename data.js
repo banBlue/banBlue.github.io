@@ -16918,4 +16918,25 @@
     "associate": "",
     "chapte": "68"
   }
+  ,{
+    "name": "equipped",
+    "trans": "a:装备齐全的 v:装备",
+    "root": "",
+    "associate": "",
+    "chapte": "68"
+  }
+  ,{
+    "name": "subtance",
+    "trans": "物质 材料",
+    "root": "",
+    "associate": "",
+    "chapte": "68"
+  }
+  ,{
+    "name": "unwanted",
+    "trans": "不需要的",
+    "root": "",
+    "associate": "",
+    "chapte": "68"
+  }
 ]
