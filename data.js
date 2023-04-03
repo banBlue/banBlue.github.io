@@ -2710,7 +2710,7 @@
   },
   {
       "name": "especially",
-      "trans": "a:特别",
+      "trans": "adv:尤其 特别",
       "root": "",
       "associate": "",
       "chapte": "12"
@@ -4936,7 +4936,7 @@
   },
   {
       "name": "state",
-      "trans": "国家 州",
+      "trans": "国家 州 状态",
       "root": "",
       "associate": "",
       "chapte": "19"
@@ -7722,7 +7722,7 @@
   },
   {
       "name": "celebrity",
-      "trans": "名人",
+      "trans": "名人 明星",
       "root": "",
       "associate": "",
       "chapte": "28"
@@ -14611,13 +14611,6 @@
   {
     "name": "feet",
     "trans": "脚",
-    "root": "",
-    "associate": "",
-    "chapte": "55"
-  },
-  {
-    "name": "celebrity",
-    "trans": "n:名人 明星",
     "root": "",
     "associate": "",
     "chapte": "55"
