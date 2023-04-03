@@ -16911,4 +16911,11 @@
     "associate": "",
     "chapte": "68"
   }
+  ,{
+    "name": "dozen",
+    "trans": "一打 十二个 大量 许多",
+    "root": "",
+    "associate": "",
+    "chapte": "68"
+  }
 ]
