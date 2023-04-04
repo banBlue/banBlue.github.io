@@ -16932,4 +16932,46 @@
     "associate": "",
     "chapte": "68"
   }
+  ,{
+    "name": "shifts",
+    "trans": "n:移位 v:转移 改变",
+    "root": "",
+    "associate": "",
+    "chapte": "69"
+  }
+  ,{
+    "name": "daytime",
+    "trans": "白天  a:日间的",
+    "root": "",
+    "associate": "",
+    "chapte": "69"
+  }
+  ,{
+    "name": "harvest",
+    "trans": "v:收获 收割",
+    "root": "",
+    "associate": "",
+    "chapte": "69"
+  }
+  ,{
+    "name": "spear",
+    "trans": "矛",
+    "root": "",
+    "associate": "",
+    "chapte": "69"
+  }
+  ,{
+    "name": "bred",
+    "trans": "繁衍",
+    "root": "",
+    "associate": "breed的过去式",
+    "chapte": "69"
+  }
+  ,{
+    "name": "extent",
+    "trans": "程度 范围",
+    "root": "",
+    "associate": "",
+    "chapte": "69"
+  }
 ]
