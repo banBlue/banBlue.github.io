@@ -16974,4 +16974,25 @@
     "associate": "",
     "chapte": "69"
   }
+  ,{
+    "name": "misery",
+    "trans": "痛苦 穷困",
+    "root": "",
+    "associate": "",
+    "chapte": "69"
+  }
+  ,{
+    "name": "costs",
+    "trans": "费用 话费 代价 成本",
+    "root": "",
+    "associate": "",
+    "chapte": "69"
+  }
+  ,{
+    "name": "rush hours",
+    "trans": "交通拥挤 上下班高峰",
+    "root": "",
+    "associate": "",
+    "chapte": "69"
+  }
 ]
