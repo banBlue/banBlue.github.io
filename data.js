@@ -8793,7 +8793,7 @@
   },
   {
       "name": "account",
-      "trans": "账目 账户 v:解释",
+      "trans": "账目 账户 客户 v:解释",
       "root": "",
       "associate": "",
       "chapte": "32"
@@ -16994,5 +16994,61 @@
     "root": "",
     "associate": "",
     "chapte": "69"
+  }
+  ,{
+    "name": "fool",
+    "trans": "傻瓜 v:开玩笑 愚弄",
+    "root": "",
+    "associate": "",
+    "chapte": "70"
+  }
+  ,{
+    "name": "tough",
+    "trans": "a:坚韧的 坚固的  n;坚持 忍受",
+    "root": "",
+    "associate": "",
+    "chapte": "70"
+  }
+  ,{
+    "name": "fame",
+    "trans": "名誉 名气 v:使闻名",
+    "root": "",
+    "associate": "",
+    "chapte": "70"
+  }
+  ,{
+    "name": "etc",
+    "trans": "等等",
+    "root": "",
+    "associate": "",
+    "chapte": "70"
+  }
+  ,{
+    "name": "kid",
+    "trans": "小孩 年轻人 v:戏弄 开玩笑",
+    "root": "",
+    "associate": "",
+    "chapte": "70"
+  }
+  ,{
+    "name": "dramatic",
+    "trans": "a:巨大突然的 夸张的",
+    "root": "",
+    "associate": "",
+    "chapte": "70"
+  }
+  ,{
+    "name": "subsequent",
+    "trans": "随后的 接着的",
+    "root": "",
+    "associate": "",
+    "chapte": "70"
+  }
+  ,{
+    "name": "perspective",
+    "trans": "n:视角，观点 a:透视的",
+    "root": "",
+    "associate": "",
+    "chapte": "70"
   }
 ]
