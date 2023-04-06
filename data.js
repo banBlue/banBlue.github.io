@@ -17072,4 +17072,32 @@
     "associate": "",
     "chapte": "70"
   }
+  ,{
+    "name": "theory",
+    "trans": "学说，理论",
+    "root": "",
+    "associate": "",
+    "chapte": "70"
+  }
+  ,{
+    "name": "halves",
+    "trans": "两半 一学期；两等份",
+    "root": "",
+    "associate": "half 的复数形式",
+    "chapte": "70"
+  }
+  ,{
+    "name": "myths",
+    "trans": "神话 谬见",
+    "root": "",
+    "associate": "half 的复数形式",
+    "chapte": "70"
+  }
+  ,{
+    "name": "opener",
+    "trans": "开启工具 首战 开场白",
+    "root": "",
+    "associate": "half 的复数形式",
+    "chapte": "70"
+  }
 ]
