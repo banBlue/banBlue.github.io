@@ -17051,4 +17051,25 @@
     "associate": "",
     "chapte": "70"
   }
+  ,{
+    "name": "renewable",
+    "trans": "n:在生性能源 a:可在生的 可延期的",
+    "root": "",
+    "associate": "",
+    "chapte": "70"
+  }
+  ,{
+    "name": "perhaps",
+    "trans": "可能 也许 大概",
+    "root": "",
+    "associate": "",
+    "chapte": "70"
+  }
+  ,{
+    "name": "heat",
+    "trans": "热能 热量 v:加热",
+    "root": "",
+    "associate": "",
+    "chapte": "70"
+  }
 ]
