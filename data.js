@@ -8646,7 +8646,7 @@
   },
   {
       "name": "due",
-      "trans": "a:由于 到期的",
+      "trans": "a:到期的 应得的",
       "root": "",
       "associate": "due to由于 归功于",
       "chapte": "33"
@@ -16502,7 +16502,7 @@
     "name": "negotiated",
     "trans": "a:商谈的",
     "root": "",
-    "associate": "",
+    "associate": "negotiations谈判",
     "chapte": "65"
   }
   ,{
@@ -17090,14 +17090,98 @@
     "name": "myths",
     "trans": "神话 谬见",
     "root": "",
-    "associate": "half 的复数形式",
+    "associate": "",
     "chapte": "70"
   }
   ,{
     "name": "opener",
     "trans": "开启工具 首战 开场白",
     "root": "",
-    "associate": "half 的复数形式",
+    "associate": "",
     "chapte": "70"
+  }
+  ,{
+    "name": "bother",
+    "trans": "费心 烦恼 v:打扰",
+    "root": "",
+    "associate": "",
+    "chapte": "71"
+  }
+  ,{
+    "name": "caution",
+    "trans": "小心 警告",
+    "root": "",
+    "associate": "",
+    "chapte": "71"
+  }
+  ,{
+    "name": "rational",
+    "trans": "合理的 理性的",
+    "root": "",
+    "associate": "",
+    "chapte": "71"
+  }
+  ,{
+    "name": "ran",
+    "trans": "跑",
+    "root": "",
+    "associate": "run的过去式",
+    "chapte": "71"
+  }
+  ,{
+    "name": "skin",
+    "trans": "皮肤 皮毛",
+    "root": "",
+    "associate": "",
+    "chapte": "71"
+  }
+  ,{
+    "name": "idle",
+    "trans": "空闲的",
+    "root": "",
+    "associate": "",
+    "chapte": "71"
+  }
+  ,{
+    "name": "rough",
+    "trans": "粗糙的",
+    "root": "",
+    "associate": "",
+    "chapte": "71"
+  }
+  ,{
+    "name": "journal",
+    "trans": "杂志",
+    "root": "",
+    "associate": "",
+    "chapte": "71"
+  }
+  ,{
+    "name": "cultivate",
+    "trans": "v:开垦 栽培",
+    "root": "",
+    "associate": "",
+    "chapte": "71"
+  }
+  ,{
+    "name": "contract",
+    "trans": "合同",
+    "root": "",
+    "associate": "",
+    "chapte": "71"
+  }
+  ,{
+    "name": "brief",
+    "trans": "短暂的 简洁的",
+    "root": "",
+    "associate": "",
+    "chapte": "71"
+  }
+  ,{
+    "name": "relevant",
+    "trans": "a:有关的",
+    "root": "",
+    "associate": "",
+    "chapte": "71"
   }
 ]
