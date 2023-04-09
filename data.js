@@ -17184,4 +17184,39 @@
     "associate": "",
     "chapte": "71"
   }
+  ,{
+    "name": "prevailing",
+    "trans": "a:现存的 盛行的 v:流行",
+    "root": "",
+    "associate": "",
+    "chapte": "71"
+  }
+  ,{
+    "name": "mobility",
+    "trans": "流行能力 活动性",
+    "root": "",
+    "associate": "",
+    "chapte": "71"
+  }
+  ,{
+    "name": "prospect",
+    "trans": "可能性 预期 希望",
+    "root": "",
+    "associate": "",
+    "chapte": "71"
+  }
+  ,{
+    "name": "sensible",
+    "trans": "a:理智的  合理的",
+    "root": "",
+    "associate": "",
+    "chapte": "71"
+  }
+  ,{
+    "name": "sufficient",
+    "trans": "a:足够的 充足的",
+    "root": "",
+    "associate": "",
+    "chapte": "71"
+  }
 ]
