@@ -4208,7 +4208,7 @@
   },
   {
       "name": "appearance",
-      "trans": "出现 容貌",
+      "trans": "出现 容貌 外表",
       "root": "",
       "associate": "",
       "chapte": "17"
@@ -17215,6 +17215,27 @@
   ,{
     "name": "sufficient",
     "trans": "a:足够的 充足的",
+    "root": "",
+    "associate": "",
+    "chapte": "71"
+  }
+  ,{
+    "name": "clue",
+    "trans": "线索 提示",
+    "root": "",
+    "associate": "",
+    "chapte": "71"
+  }
+  ,{
+    "name": "shape",
+    "trans": "形状 外形 v:形成",
+    "root": "",
+    "associate": "",
+    "chapte": "71"
+  }
+  ,{
+    "name": "looks",
+    "trans": "外貌",
     "root": "",
     "associate": "",
     "chapte": "71"
