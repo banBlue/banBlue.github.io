@@ -16009,6 +16009,13 @@
     "chapte": "62"
   }
   ,{
+    "name": "means",
+    "trans": "方法 手段 财富",
+    "root": "",
+    "associate": "",
+    "chapte": "62"
+  }
+  ,{
     "name": "voluntary",
     "trans": "a:自愿的",
     "root": "",
@@ -17236,6 +17243,27 @@
   ,{
     "name": "looks",
     "trans": "外貌",
+    "root": "",
+    "associate": "",
+    "chapte": "71"
+  }
+  ,{
+    "name": "plots",
+    "trans": "情节 阴谋",
+    "root": "",
+    "associate": "",
+    "chapte": "71"
+  }
+  ,{
+    "name": "confront",
+    "trans": "v:面对 面临",
+    "root": "",
+    "associate": "",
+    "chapte": "71"
+  }
+  ,{
+    "name": "appeal",
+    "trans": "v:呼吁 恳求",
     "root": "",
     "associate": "",
     "chapte": "71"
