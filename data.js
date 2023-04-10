@@ -14064,7 +14064,7 @@
   },
   {
     "name": "certain",
-    "trans": "a:必定的 确定的",
+    "trans": "a:必定的 确定的 某个",
     "root": "",
     "associate": "",
     "chapte": "51"
@@ -17271,6 +17271,27 @@
   ,{
     "name": "British",
     "trans": "英国人",
+    "root": "",
+    "associate": "",
+    "chapte": "72"
+  }
+  ,{
+    "name": "magazine",
+    "trans": "n:杂志",
+    "root": "",
+    "associate": "",
+    "chapte": "72"
+  }
+  ,{
+    "name": "tap",
+    "trans": "轻拍 水龙头",
+    "root": "",
+    "associate": "",
+    "chapte": "72"
+  }
+  ,{
+    "name": "bury",
+    "trans": "v:埋 埋葬",
     "root": "",
     "associate": "",
     "chapte": "72"
