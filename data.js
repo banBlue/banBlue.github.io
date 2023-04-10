@@ -17268,4 +17268,11 @@
     "associate": "",
     "chapte": "71"
   }
+  ,{
+    "name": "British",
+    "trans": "英国人",
+    "root": "",
+    "associate": "",
+    "chapte": "72"
+  }
 ]
