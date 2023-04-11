@@ -17296,4 +17296,18 @@
     "associate": "",
     "chapte": "72"
   }
+  ,{
+    "name": "bored",
+    "trans": "a:无聊的 厌烦的 v:使厌烦 钻",
+    "root": "",
+    "associate": "",
+    "chapte": "72"
+  }
+  ,{
+    "name": "gotta",
+    "trans": "必须，不得不",
+    "root": "",
+    "associate": "",
+    "chapte": "72"
+  }
 ]
