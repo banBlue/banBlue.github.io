@@ -3339,13 +3339,6 @@
       "chapte": "14"
   },
   {
-      "name": "grade",
-      "trans": "等级",
-      "root": "",
-      "associate": "",
-      "chapte": "14"
-  },
-  {
       "name": "aggressive",
       "trans": "a:咄咄逼人的",
       "root": "",
@@ -7673,7 +7666,7 @@
   },
   {
       "name": "share",
-      "trans": "分享",
+      "trans": "v:分享 共同使用",
       "root": "",
       "associate": "切开",
       "chapte": "28"
@@ -13181,13 +13174,6 @@
       "chapte": "47"
   },
   {
-      "name": "share",
-      "trans": "v:分享 共同使用",
-      "root": "",
-      "associate": "",
-      "chapte": "47"
-  },
-  {
       "name": "offshore",
       "trans": "a:离案的 近海的",
       "root": "",
@@ -17306,6 +17292,20 @@
   ,{
     "name": "gotta",
     "trans": "必须，不得不",
+    "root": "",
+    "associate": "",
+    "chapte": "72"
+  }
+  ,{
+    "name": "cognitive",
+    "trans": "a:认识的 认知的",
+    "root": "",
+    "associate": "",
+    "chapte": "72"
+  }
+  ,{
+    "name": "mysteries",
+    "trans": "神秘的事物",
     "root": "",
     "associate": "",
     "chapte": "72"
