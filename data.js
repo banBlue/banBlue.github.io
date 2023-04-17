@@ -17321,14 +17321,7 @@
     "name": "give in",
     "trans": "投降 让步",
     "root": "",
-    "associate": "was not",
-    "chapte": "72"
-  }
-  ,{
-    "name": "",
-    "trans": "投降 让步",
-    "root": "",
-    "associate": "was not",
+    "associate": "",
     "chapte": "72"
   }
 ]
