@@ -1318,7 +1318,7 @@
   {
       "chapte": "7",
       "name": "conscience",
-      "trans": "良心 良知",
+      "trans": "良心 良知 意识",
       "root": "",
       "associate": "一起知道的"
   },
@@ -17308,6 +17308,27 @@
     "trans": "神秘的事物",
     "root": "",
     "associate": "",
+    "chapte": "72"
+  }
+  ,{
+    "name": "wasn't",
+    "trans": "不是",
+    "root": "",
+    "associate": "was not",
+    "chapte": "72"
+  }
+  ,{
+    "name": "give in",
+    "trans": "投降 让步",
+    "root": "",
+    "associate": "was not",
+    "chapte": "72"
+  }
+  ,{
+    "name": "",
+    "trans": "投降 让步",
+    "root": "",
+    "associate": "was not",
     "chapte": "72"
   }
 ]
