@@ -547,7 +547,7 @@
   },
   {
       "chapte": "4",
-      "name": "precent",
+      "name": "percent",
       "trans": "百分之...",
       "root": "",
       "associate": ""
@@ -729,7 +729,7 @@
   },
   {
       "chapte": "5",
-      "name": "comunity",
+      "name": "community",
       "trans": "社区",
       "root": "",
       "associate": ""
@@ -855,7 +855,7 @@
   },
   {
       "chapte": "5",
-      "name": "commercical",
+      "name": "commercial",
       "trans": "a:贸易的 n:商业广告",
       "root": "",
       "associate": ""
@@ -1604,7 +1604,7 @@
   },
   {
       "chapte": "8",
-      "name": "affecttion",
+      "name": "affection",
       "trans": "n:喜爱",
       "root": "",
       "associate": "因为受影响所以喜爱"
@@ -1639,7 +1639,7 @@
   },
   {
       "chapte": "8",
-      "name": "benefical",
+      "name": "beneficial",
       "trans": "a:有利的  有帮助的",
       "root": "",
       "associate": ""
@@ -2149,7 +2149,7 @@
       "chapte": "10"
   },
   {
-      "name": "minmum",
+      "name": "minimum",
       "trans": "a:最小量的 n:最小量",
       "root": "",
       "associate": "",
@@ -11837,7 +11837,7 @@
       "chapte": "43"
   },
   {
-      "name": "prefession",
+      "name": "profession",
       "trans": "职业",
       "root": "",
       "associate": "",
