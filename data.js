@@ -3031,7 +3031,7 @@
       "chapte": "13"
   },
   {
-      "name": "pronouncation",
+      "name": "pronunciation",
       "trans": "发音",
       "root": "",
       "associate": "",
@@ -6132,7 +6132,7 @@
       "chapte": "23"
   },
   {
-      "name": "beding",
+      "name": "bedding",
       "trans": "床上用品",
       "root": "",
       "associate": "",
@@ -6643,7 +6643,7 @@
       "chapte": "25"
   },
   {
-      "name": "rocial",
+      "name": "racial",
       "trans": "a:种族的 人种的",
       "root": "",
       "associate": "",
@@ -7035,7 +7035,7 @@
       "chapte": "26"
   },
   {
-      "name": "architectrue",
+      "name": "architecture",
       "trans": "建筑学",
       "root": "",
       "associate": "",
@@ -8134,7 +8134,7 @@
       "chapte": "30"
   },
   {
-      "name": "fery",
+      "name": "ferry",
       "trans": "渡船",
       "root": "",
       "associate": "携带度过的工具",
@@ -8526,7 +8526,7 @@
       "chapte": "33"
   },
   {
-      "name": "immedately",
+      "name": "immediately",
       "trans": "adv;立即 立刻",
       "root": "",
       "associate": "",
@@ -13195,7 +13195,7 @@
       "chapte": "48"
   },
   {
-      "name": "nosense",
+      "name": "nonsense",
       "trans": "胡言乱语 无意义的话",
       "root": "",
       "associate": "",
@@ -13377,7 +13377,7 @@
       "chapte": "48"
   },
   {
-      "name": "superme",
+      "name": "supreme",
       "trans": "a:至高无上的 最高的",
       "root": "",
       "associate": "",
@@ -13573,7 +13573,7 @@
       "chapte": "49"
   },
   {
-      "name": "thunderstom",
+      "name": "thunderstorm",
       "trans": "n:雷雨",
       "root": "",
       "associate": "",
@@ -14336,7 +14336,7 @@
     "chapte": "53"
   },
   {
-    "name": "reputaion",
+    "name": "reputation",
     "trans": "名誉 名声",
     "root": "",
     "associate": "",
@@ -14945,7 +14945,7 @@
     "chapte": "56"
   },
   {
-    "name": "trun out",
+    "name": "turn out",
     "trans": "发生 结果是",
     "root": "",
     "associate": "",
@@ -15001,7 +15001,7 @@
     "chapte": "57"
   }
   ,{
-    "name": "thoughful",
+    "name": "thoughtful",
     "trans": "深思的",
     "root": "",
     "associate": "",
@@ -15960,7 +15960,7 @@
     "chapte": "62"
   }
   ,{
-    "name": "radiculous",
+    "name": "ridiculous",
     "trans": "荒谬的",
     "root": "",
     "associate": "",
