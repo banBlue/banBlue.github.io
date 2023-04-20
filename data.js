@@ -17324,4 +17324,18 @@
     "associate": "",
     "chapte": "72"
   }
+  ,{
+    "name": "bone",
+    "trans": "骨头 v:挑刺 剔骨",
+    "root": "",
+    "associate": "",
+    "chapte": "73"
+  },
+  ,{
+    "name": "give up",
+    "trans": "放弃",
+    "root": "",
+    "associate": "",
+    "chapte": "73"
+  }
 ]
