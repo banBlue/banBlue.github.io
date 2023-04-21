@@ -17330,7 +17330,7 @@
     "root": "",
     "associate": "",
     "chapte": "73"
-  },
+  }
   ,{
     "name": "give up",
     "trans": "放弃",
