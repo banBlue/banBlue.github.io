@@ -4138,7 +4138,7 @@
   },
   {
       "name": "department",
-      "trans": "部分",
+      "trans": "部门",
       "root": "",
       "associate": "分开的一部分",
       "chapte": "17"
